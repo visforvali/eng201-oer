@@ -1,9 +1,16 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: Vyshali Manivannan
+date: 2025-08-27
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+> ##### IMPORTANT
+> The information below, along with the invitation link to join our "ENG201 Classroom"
+> server, is cross-posted to Classes.
+{: .block-warning }
+
+📲 DM Me | fhqwgads on our class server
+📧 Email Me | [vmanivannan@pace.edu](mailto:vmanivannan@pace.edu){:target="_blank"}
+🗓️ Book a Coffee Chat | [Zcal](){:target="_blank"}
