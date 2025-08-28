@@ -1,7 +1,9 @@
 ---
-layout: home
-title: README
-# permalink: /
+title: About ENG 201
+author: Dr. Mani
+date: 2025-08-27
+category: Jekyll
+layout: post
 ---
 
 Offered by the [Dept. of English, Writing, and Cultural Studies](https://www.pace.edu/dyson/departments/english-writing-and-cultural-studies){:target="_blank"} at Pace University - Pleasantville (PLV), [ENG 201: Writing in the Disciplines](https://www.pace.edu/dyson/departments/english-writing-and-cultural-studies/core-writing-program){:target="_blank"} functions as both the final course in our three-class core writing sequence and as an entry point into our Writing Across the Curriculum program. 
@@ -26,21 +28,3 @@ You'll be assigned both low-stakes
 high-stakes and low-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of larger assignments and evolves through peer collaboration, analytical writing, and revision. 
 
 students write to learn, not simply compose to show mastery. Classrooms are process oriented, collaborative spaces in which students are free to take risks, to play with form and genre, breaking from prescriptive approaches to writing that often leave writers feeling restricted and unfulfilled.
-
-Test 
-
-This course website for the asynchronous Fall 2025 section of ENG 201: Writing in the Disciplines at Pace University, taught by Dr. Vyshali Manivannan, uses the [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook/){:target="_blank"} theme by Tao He.
-
-It was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increasing false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource any part of their thought process without proportionally atrophying their brains.
-
-It also allows us to primarily use 2 technological platforms: Discord for low-stakes writing and async class discussion; and this site for course content (with essay drafts to be posted to Classes).
-
-This site contains:
-
-- announcements,
-- the syllabus,
-- a course calendar,
-- weekly modules, including PDFs/links of assigned readings, 
-- about the instructor,
-- instant, full-text search and page indexing,
-- collapsible sidebar navigation menu
