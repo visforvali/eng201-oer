@@ -1,5 +1,5 @@
 ---
-title: About This Site
+title: ℹ️ About This Site
 author: Dr. Mani
 date: 2025-08-27
 category: Jekyll
@@ -12,10 +12,14 @@ This website was developed in response to having generative AI forced into my co
 
 This site contains:
 
-- announcements,
-- the syllabus,
-- a course calendar,
-- weekly modules, including PDFs/links of assigned readings, 
-- about the instructor,
-- instant, full-text search and page indexing,
-- collapsible sidebar navigation menu
+- Class announcements
+- ENG 201 syllabus
+- ENG 201 calendar (the home page)
+- Alt-grading system
+- Weekly modules, including PDFs of or links to assigned readings
+- Discord tutorial
+- Instant full-text search and page indexing
+- Collapsible sidebar navigation menu
+- and class playlists!
+
+All ENG 201 course material is © 2025 Vyshali Manivannan, released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"} license.

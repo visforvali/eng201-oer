@@ -1,5 +1,5 @@
 ---
-title:  🍎 Assignments
+title:  ✍️ Assignments
 author: Dr. Mani
 date: 2025-08-27
 category: Jekyll

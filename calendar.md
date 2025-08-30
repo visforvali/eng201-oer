@@ -39,7 +39,7 @@ The Fall 2025 calendar of readings and modules is below. If I change the schedul
 
 | Week of   | Course material | Due by 11:59PM |
 |:-------|:------|:-------|
-| 9/1 - 9/5 | 🕵️ Review [Syllabus](/_pages/about-201.md){:target="_blank"}, [Alt-Grading System](){:target="_blank"}, [Writing Prompts](){:target="_blank"} <br/> ⚙️ Review [Discord Quickstart Guide](){:target="_blank"}, tech setup, exploration | Fri: Intro in #roll-call |
+| 9/1 - 9/5 | 🕵️ Review [Syllabus](eng201-oer/_pages/syllabus){:target="_blank"}, [Alt-Grading System](){:target="_blank"}, [Writing Prompts](){:target="_blank"} <br/> ⚙️ Review [Discord Quickstart Guide](){:target="_blank"}, tech setup, exploration | Fri: Intro in #roll-call |
 | 9/8 - 9/12 | 📖 [Module 1: Writing in the Disciplines](){:target="_blank"} | Tue: 1 Ques Post <br/> Fri: 1 Answer |
 | 9/15 - 9/19 | 📖 [Module 2: Developing Research Questions](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
 | 9/22 &ndash; 9/26 | 📖 [Module 3: Discipline Narratives](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br/> #team Potential project |

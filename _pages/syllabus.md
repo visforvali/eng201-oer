@@ -1,22 +1,22 @@
 ---
 title: 🗓️ ENG 201 Syllabus
 author: Dr. Mani
-date: 2025-08-27
+date: 2025-08-01
 category: Jekyll
 layout: post
 ---
 
 # Course Description 🧐
 
-ENG 201: Writing in the Disciplines serves as the final course in Pace University - Pleasantville's (PLV) three-class core writing sequence, building on the writing skills you learned in either ENG 110: Composition (which you may or may not have taken) and/or ENG 120: Critical Writing. In ENG 110, you developed critical reading and writing skills and explore their writerly identities in ENG 110; in ENG 120, you developed analytical skills and considered how writerly identities are shaped through participation in discourse communities. 
+ENG 201: Writing in the Disciplines serves as the final course in Pace University - Pleasantville's (PLV) three-class core writing sequence, building on the writing skills you learned in ENG 110: Composition and/or ENG 120: Critical Writing. In ENG 110, you developed critical reading and writing skills and explored your writerly identities; in ENG 120, you developed analytical skills and considered how writerly identities are shaped through participation in discourse communities. As a writing in the disciplines (WID) course, ENG 201 builds on these skills with attention to discipline-specific expectations around research writing.
 
-In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic (your major) or professional (your intended career) fields; you'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; that repeatedly surfaces in those conversations. This qualitative semester-long research study is meant to position you as researchers engaging in contemporary, ongoing conversations in your fields. Through developing your understanding of disciplinary genres and the craft of scholarly writing, you'll come to better understand the communicative expectations associated with your field. 
+In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic or professional fields, i.e. your major or intended career. You'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; a problem or tension that repeatedly surfaces in contemporary conversations. You'll be assigned both low-stakes and high-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of drafts of a qualitative semester-long research study that evolve through peer collaboration, analytical writing, and revision. 
 
-You'll be assigned both low-stakes and high-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of larger assignments and evolves through peer collaboration, analytical writing, and revision. Your qualitative semester-long research study is meant to position you as researchers engaging in contemporary, ongoing conversations in your fields. 
+This qualitative semester-long research study is meant to position you as researchers engaging in contemporary, ongoing conversations in your fields. Through developing your understanding of disciplinary genres and the craft of scholarly writing, you'll come to better understand the communicative expectations associated with your field. 
 
 # Learning Outcomes ✅
 
-You'll leave this course with the (improved) ability to:
+You'll leave this course with the new or improved ability to:
 
 - Engage in critical analysis through well-developed ideas and clear purpose
 - Write informal/formal exposition, summary, critique, analysis, narrative, research writing, and reflection
@@ -34,7 +34,7 @@ All required readings are provided for free. They're uploaded to [Classes\Conten
 
 This is an online synchronous course that meets twice a week using Discord for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
-The server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our Quickstart Guide or the Beginner’s Guide to Discord to get started and reach out if you need help!
+The server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](../discord){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 > ##### IMPORTANT
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing (your project drafts), and share your grades with you.
@@ -49,8 +49,8 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 # Grading Breakdown 💯
 
 > ##### Note
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](/eng201-oer/_pages/alt-grading) page.
-{: .block-warning }
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](../alt-grading) page.
+{: .block-tip }
 
 Participation | 40% | [[description](#)]
 High-Stakes Writing | 40% | [[description](#)]

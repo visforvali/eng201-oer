@@ -1,7 +1,7 @@
 ---
 title:  🍎 Alt-Grading System
 author: Dr. Mani
-date: 2025-08-27
+date: 2025-08-02
 category: Jekyll
 layout: post
 ---
