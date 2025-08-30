@@ -8,9 +8,7 @@ layout: post
 
 This course website for the asynchronous Fall 2025 section of ENG 201: Writing in the Disciplines at Pace University, taught by Dr. Vyshali Manivannan, uses the [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook/){:target="_blank"} theme by Tao He © 2019. The theme is open sourced under the Apache License, Version 2.0, using the same license as the original GitBook repository.
 
-This website was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increasing false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource any part of their thought process without proportionally atrophying their brains.
-
-It also allows us to primarily use 2 technological platforms: Discord for low-stakes writing and async class discussion; and this site for course content (with essay drafts to be posted to Classes).
+This website was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increasing false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource any part of their thought process without suffering proportional cognitive atrophy. It also streamlines our technological platforms to Discord (for class discussion and low-stakes writing); and this site for course content (with essay drafts to be posted to Classes).
 
 This site contains:
 
