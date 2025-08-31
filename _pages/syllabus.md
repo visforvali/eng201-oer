@@ -49,12 +49,12 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 # Grading Breakdown 💯
 
 > ##### Note
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](../alt-grading) page.
+> For a full description of written work, the alt-grading system, and participation and attendance policy, check out the [Assignments](../assignments){:target="_blank"} and [Alt-Grading System](../alt-grading){:target="_blank"} pages.
 {: .block-tip }
 
-Participation | 40% | [[description](#)]
-High-Stakes Writing | 40% | [[description](#)]
-Low-Stakes Writing | 20% | [[description](#)]
+Participation | 40% 
+High-Stakes Writing | 40% 
+Low-Stakes Writing | 20% 
 
 # Policies for ENG 201 & Pace
 
@@ -68,18 +68,18 @@ If something might affect or is affecting your academic performance, please talk
 
 > ##### Note
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
-{: .block-warning }
+{: .block-tip }
 
 To request an official accommodation for a qualifying disability a student must self-identify and register with the Student Accessibility Services for his/her/their campus. [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for the New York City campus may be contacted at 212-346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville.
 
 ## ENG 201: Attendance Policy 🙋
 
 > ##### Attention!
-> In this class, attendance doesn’t mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
+> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
 {: .block-danger }
 
 > ##### Note
-> The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to this informational resource I put together on pandemics and public health, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
+> The pandemic isn't over. For information on how to affordably protect yourself from infectious diseases, refer to [this informational resource](https://vyshalimanivannan.com/pandemics-public-health/){:target="_blank"} I put together on pandemics and public health, which includes info on current strains, long-term costs of COVID-19 and post-COVID syndromes, where to buy PPE affordably, and an abbreviated course policy on illness.
 {: .block-warning }
 
 Life is stressful: We're dealing with changes in government and social policy &mdash; cuts to open education, equity initiatives that support women, BIPOC, disabled, and LGBTQIA+ folks, social welfare, FEMA, the VA; bans on public health and science communications; attacks on citizenship and ICE raids &mdash; and ongoing problems like the rising cost of living; weather extremes and environmental disasters; gun violence; GenAI's destruction of environment, human intentionality, and reliable information; food recalls; medication shortages; and an uptick in anti-intellectualism and bigotry.
@@ -102,9 +102,9 @@ This class is an antiracism education course and fulfills the ARE requirement, s
 
 ## ENG 201: Academic Integrity & Brain-Only Writing 🧠
 
-> ##### Important
+> ##### Attention!
 > You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. Don't invent research data, lie about engaging with a text, fabricate a source, pass off another human's responses as your own, or use GenAI. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee.
-{: .block-warning }
+{: .block-danger }
 
 Writing is the process of thinking and learning, so do your own work! If you use sources, including the assigned texts, cite them whether you're paraphrasing (translating the text into your own voice) or quoting (using the text's words). If a submission sounds "off" for any reason, and if you're unable to walk me through the writing choices you made and why (what you hoped to accomplish, how your thoughts and wordsmithing were supposed to get you there), then I'm unlikely to accept that submission for credit.
 
@@ -116,7 +116,7 @@ Read the rest of the [Writing without AI](https://vyshalimanivannan.com/writing-
 
 ## Pace: Writing Support & Learning Commons ✏️
 
-Writing support is available for all students at Pace University. We offer confidential one-to-one appointments (on-site or on-line), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. Check out our writing services and current hours of operation and use TracCloud to schedule an appointment. 
+Writing support is available for all students at Pace University. We offer confidential one-to-one appointments (on-site or on-line), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/services-current-students){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
 
 The Learning Commons uses an array of programs and a holistic approach to assist students with academic skills and content knowledge. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff, such as:
 
@@ -135,5 +135,5 @@ Questions? Please email [LC_PLV@pace.edu](mailto:LC_PLV@pace.edu) or [LC_NYC@pac
 If you've experienced a threat to your safety or been physically or sexually assaulted, there are confidential resources available at the university to assist you:
 
 - [Pace Counseling Center](https://www.pace.edu/counseling/about){:target="_blank"} (NYC: 161 William Street, 7th Floor, 212-346-1526; PLV: Administration Building, 2nd Floor, 914-773-3710)
-- [Office of Sexual and Interpersonal Wellness](https://www.pace.edu/sexual-wellness){:target="_blank"} (NYC: Director - Ashleigh Andersen, 41 Park Row, 9th Floor, Office 905, 212-346-1931, PLV: Director - Asha M. Kadir, Elm Hall, 133B, 914-773-8783)
+- [Office of Sexual and Interpersonal Wellness](https://www.pace.edu/sexual-wellness){:target="_blank"} (NYC: Director - [Ashleigh Andersen](mailto:aandersen2@pace.edu), 41 Park Row, 9th Floor, Office 905, 212-346-1931, PLV: Director - [Asha M. Kadir](mailto:akadir@pace.edu), Elm Hall, 133B, 914-773-8783)
 - [University Healthcare](https://www.pace.edu/college-health-professions/life-chp/university-health-care){:target="_blank"}, (NYC: 161 William Street, 2nd Floor, Room 212, 212-346-1600; PLV: Paton House Ground Fl., 861 Bedford Rd., 914-773-3760)

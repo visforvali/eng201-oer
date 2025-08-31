@@ -38,10 +38,10 @@ If you do better on an ungraded draft than you do on a final submission, I'll sc
 # Participation 🙋
 
 > ##### Attention!
-> Participation grades are in compliance with university policy for async courses. You're required to participate in discussions and submit work in #classroom and/or other text channels each week. In async classes, you can participate whenever you like during each week, as long as you post by the deadline.
+> Participation grades are in compliance with university policy for async courses. You're required to participate in discussions and submit work in #classroom and/or other text channels each week. In async classes, you can participate whenever you like during each week, as long as you post by the deadline. 
 {: .block-danger }
 
-You’re expected to regularly, substantively participate in #classroom each week, through thoughtful, informal contributions that reflect what you're learning; organically reacting/replying to classmates; and doing classwork in a relatively timely fashion. 
+You're expected to regularly, substantively participate in #classroom each week, through thoughtful, informal contributions that reflect what you're learning; organically reacting/replying to classmates; and doing classwork in a relatively timely fashion. 
 
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
@@ -57,14 +57,28 @@ If there's another form that works for you, or if you're anxious about whether y
 
 You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class.
 
+## Low-Stakes Writing
+
+> ##### Attention!
+> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
+{: .block-danger }
+
+Low-stakes writing work, i.e. weekly #classroom posts or #team activities on Discord, asks you to briefly organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts.
+
+**Weekly #classroom posts, i.e. #classroom discussion contributions to help you understand the material, should be posted to #classroom by 11:59PM on Tuesdays and Fridays.** 
+
+By Tues 11:59PM | 1 post asking a specific question about: something you've learned from one of the week's assigned readings about research writing; *or* about something you'd like help deciphering in a scholarly text you're reading for one of your qualitative research project drafts.
+By Fri 11:59PM |  1 post attempting to answer one of your classmates' questions (you must answer a question no one else has tried to answer yet, but you can contribute to other questions in addition to boost your participation grade).
+
+Any project-related activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar). 
+
+> ##### Note
+> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
+{: .block-tip }
 
 
 
-PARTICIPATION	━━━━━━━━━━	40%
-You’re expected to regularly, substantively participate through thoughtful, informal weekly text + voice chats that reflect what we’re learning; organically reacting/replying to classmates; doing classwork in a relatively timely fashion; and attending coffee chats.
 
 
-PREWRITING 	━━━━━━━━━━	20%
-Some Thursdays (noted on the Calendar), you’ll post prewriting to the weekly channels on Discord to practice what you’re learning and continue developing your qualitative research project. Prewriting threads are posted in advance and can be replied to anytime so you can pace yourself if needed.
 QUALITATIVE RESEARCH PROJECT ━━━	40% 
 This project is divided into 3 “phases”: Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Phase 1); Literature Review (Phase 2); Results (Phase 3); Conclusion (Phase 3). You’ll submit two drafts of each phase: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final formatted project will contain these revised, updated versions.
