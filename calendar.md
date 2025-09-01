@@ -15,12 +15,12 @@ _CRN: 72643-70373 Fall 2025 ASYNC_
 🥸 **Server name**: fhqwgads   
 🍵 **Office hrs**: 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe   
 🌋 **My hill to die on**: Writing is thinking, not something that happens afterwards.   
-
-<button class="button button-span" style="text-align: center;" href="https://zcal.co/drmani/coffee-chat" target="_blank">Book a coffee chat!</button>   
+<br>
+<a href="https://zcal.co/drmani/coffee-chat" target="_blank" style="text-decoration:none;"><button class="button button-span">Book a coffee chat!</button></a>   
 &nbsp;   
 
 Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disciplines this semester. I'm an Eelam Tamil American chronically ill writer, scholar, artist, and designer. I've taught writing and rhetoric, media studies, disability studies, and cultural studies for ~20 years. I have a PhD in Communication, Information, and Media from Rutgers and an MFA in Creative Writing from Columbia. I'm interested in digital multimodal composition, disability justice movements (mask up 😷 for your community!), and body mods. I also have a Siberian cat named Athena ([obligatory cat tax](/eng201-oer/assets/gitbook/images/cat_tax.jpg){:target="_blank"}).
-
+<br>
 > ##### Attention!
 > I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐10, 🕐15, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) chat to talk about any aspect of your classwork, college, life, etc. Book early and often! If these times don't work for your schedule, DM me to try to arrange an alternate time. **If you're in an async section, please be aware that I can't require sync one-on-one meetings and therefore have limited availability outside of these hours.** You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. I’m almost never able to accommodate last-minute requests.
 {: .block-danger }
@@ -30,30 +30,33 @@ Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disc
 {: .block-warning }
 
 > ##### Weekly Workflow and Deadlines
-> Unless otherwise noted, **you'll post your discussion questions to #classroom by Tue 11:59PM or earlier every week, and reply to a classmate's question with an attempted answer by Fri 11:59PM or earlier every week** to qualify as participation for the week. (For specific instructions, check out [Assignments](/eng201-oer/_pages/assignments){:target="_blank"}.) You don't need to have completed the module by the time you post.
+> Unless otherwise noted, **you'll post your discussion questions to #classroom by Tue 11:59PM or earlier every week, and reply to a classmate's question with an attempted answer by Fri 11:59PM or earlier every week** to qualify as participation for the week. (For specific instructions, check out [Assignments](/eng201-oer/pages/assignments){:target="_blank"}.) You don't need to have completed the module by the time you post.
 {: .block-tip }
 
 # Course Calendar
 
-The Fall 2025 calendar of readings and modules is below. If I change the schedule to benefit the class, I'll post an announcement to #classroom and to the [Announcements](/eng201-oer/jekyll/2025-08-01-w0.html){:target="_blank"} page.
+The Fall 2025 calendar of readings and modules is below. If I change the schedule to benefit the class, I'll post an announcement to #classroom and to the [Announcements](/eng201-oer/jekyll/2025-07-31-w0.html){:target="_blank"} page.
 
-## Week 1 - Complicity or Resistance
+> ##### Suggested Sat-Fri Workflow
+> Because this is an asynchronous section, weekends are included in the calendar below. The suggested workflow below begins on Sat and ends on Fri, but this is only a suggestion. You can complete the work whenever you're able during the week as your schedule permits. Regardless of when you find the time, you're expected to pace yourself, manage your time, and stay on top of deadlines, and you must complete all the work each week to remain in good standing in the course.
+{: .block-danger }
+<br>
 
-| Week of   | Course material | Due by 11:59PM |
+| Week Of <img width=150/> | Course Expectations <img width=500/> | Due by 11:59PM <img width=200/> |
 |:-------|:------|:-------|
-| 9/1 - 9/5 | ⚙️ Join Discord server (invitation link on [Classes\Content\Syllabus](classes.pace.edu){:target="_blank"}) and get setup with [Discord Quickstart Guide](/_others/discord){:target="_blank"} <br/> 🔖 Complete [Module 0: Settling In](/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} <br/> 🔍 Get to know where things are on Discord, this course website, and Classes | Fri: Intro in #roll-call |
-| 9/8 - 9/12 | 📖 [Module 1: Writing in the Disciplines](){:target="_blank"} | Tue: 1 Ques Post <br/> Fri: 1 Answer |
-| 9/15 - 9/19 | 📖 [Module 2: Developing Research Questions](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 9/22 &ndash; 9/26 | 📖 [Module 3: Discipline Narratives](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br/> #team Potential project |
-| 9/29 - 10/3 | 📖 [Module 4: Reverse-Engineering Communication Expectations](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 10/6 - 10/10 | 📖 [Module 5: Habituating Feedback](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br/> Submit P1D1 |
-| 10/13 - 10-17 | 📖 [Module 6: Articulating Methodology](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 10/20 - 10/24 | 📖 [Module 7: How to Read a Scholarly Article](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 10/27 - 10/31 | 📖 [Module 8: Practice Reading](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br /> Annotated Bibliography Post|
-| 11/3 - 11/7 | 📖 [Module 9: Understanding the Lit Review](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"} <br /> Annotated Bibliography Post] |
-| 11/10 - 11/14 | 📖 [Module 10: Organizing the Lit Review](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br /> P2D1 |
-| 11/17 - 11/21 | 📖 [Module 11: Feedback and Recursive Revision](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 11/24 - 11/28 | 📖 [Module 12: Qualitative Coding](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 11/30 - 12/5 | 📖 [Module 13: Argumentative Synthesis](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br /> P3D1 |
-| 12/8 - 12/12 | 📖 [Module 14: Final Feedback](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
-| 12/15 - 12/19 | 📖 [Module 15: Finalizing Semester-Long Projects](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
+| 9/2 - 9/5 | **Settling In** <br/> ⚙️ Join Discord (link on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}) and get setup with [Discord Tutorial](/eng201-oer/others/discord){:target="_blank"} <br/> 🔖 Complete [Module 0](/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} <br/> 🔍 Get used to where things are on Discord, this website, Classes | Fri: Intro in #roll-call |
+| 9/6 - 9/12 | **Writing in the Disciplines** <br/> 🔖 Complete [Module 1](/eng201-oer/jekyll/2025-08-02-w2.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom |
+| 9/13 - 9/19 | **Grounded Theory for (All) Research** <br/> 🔖 Complete [Module 2](/eng201-oer/jekyll/2025-08-03-w3.html){:target="_blank"} | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom |
+| 9/20 &ndash; 9/26 |  **The Discipline Narrative** <br/> 🔖 Complete [Module 3](/eng201-oer/jekyll/2025-08-04-w4.html){:target="_blank"} | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br/> Sat: 3 RQs in #team |
+| 9/27 - 10/3 |  **Exigence and Hypotheses** <br/> 🔖 Complete [Module 4](/eng201-oer/jekyll/2025-08-05-w5.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br/> Sat: Essay Draft 1 on Classes |
+| 10/4 - 10/10 | **Habituating Feedback** <br/> 🔖 Complete [Module 5](/eng201-oer/jekyll/2025-08-06-w6.html){:target="_blank"} <br/> Conduct workshop in #team <br/> ⏰ Late work still eligible for grace period | Tue: Process Reflection in #team <br/> Fri: General Feedback Survey for each teammate in #team |
+| 10/11 - 10-17 | **Thinking About Primary Research** <br/> 🔖 Complete [Module 6](/eng201-oer/jekyll/2025-08-07-w7.html){:target="_blank"} | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br/> Sat: Draft 2 on Classes |
+| 10/18 - 10/24 | **Understanding the Lit Review** <br/> 🔖 Complete [Module 7](/eng201-oer/jekyll/2025-08-08-w8.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br/> Sat: 5 Interview Qs in #team |
+| 10/25 - 10/31 | **Conceptual Saturation** <br/> 🔖 Complete [Module 8](/eng201-oer/jekyll/2025-08-09-w9.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br /> Sat: Annotated Bibliography in #team | 
+| 11/1 - 11/7 | **Organizing the Literature** <br/> 🔖 Complete [Module 9](/eng201-oer/jekyll/2025-08-10-w10.html){:target="_blank"} <br/> 📧 Email 2 potential interviewees  <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br /> Sat: Draft 3 on Classes |
+| 11/8 - 11/14 | **Feedback and Recursive Revision** <br/> 🔖 Complete [Module 10](/eng201-oer/jekyll/2025-08-11-w11.html){:target="_blank"} <br/> 🎤 Begin conducting interviews <br/> ⏰ Late work still eligible for grace period | Tue: Process Reflection in #team <br/> Fri: General Feedback Survey for each teammate in #team |
+| 11/15 - 11/21 | **Qualitative Coding** <br/> 🔖 Complete [Module 11](/eng201-oer/jekyll/2025-08-12-w12.html){:target="_blank"} <br /> 💻 Choose 2 potential blogs/vlogs by prominent members of your discipline | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br /> Sat: Coded Interviews to #team |
+| 11/22 - 11/28 | **Argumentative Synthesis** <br/> 🔖 Complete [Module 12](/eng201-oer/jekyll/2025-08-13-w13.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br /> Sat: Draft 4 on Classes |
+| 11/29 - 12/5 | **Presenting Primary Research** <br/> 🔖 Complete [Module 13](/eng201-oer/jekyll/2025-08-14-w14.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: 1 Ques in #classroom <br/> Fri: 1 Answer in #classroom <br/> Sat: Draft 5 on Classes |
+| 12/6 - 12/12 | **Final Feedback** <br/> 🔖 Complete [Module 14](/eng201-oer/jekyll/2025-08-15-w15.html){:target="_blank"} <br/> ⏰ Late work still eligible for grace period | Tue: Process Reflection in #team <br/> Fri: General Feedback Survey for each teammate in #team |
+| 12/13 - 12/19 | **The Final Cut** <br/> 🔖 Complete [Module 15](/eng201-oer/jekyll/2025-08-16-w16.html){:target="_blank"} | Fri: Final Draft on Classes |

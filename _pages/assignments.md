@@ -66,38 +66,38 @@ You can also note any material circumstances that got in the way of your draftin
 # High-Stakes Writing 🏗️
 
 > ##### Attention!
-> Make sure to review the instructions for each phase before and while you draft and revise.
+> Make sure to review the instructions for each unit before and while you draft and revise.
 {: .block-danger }
 
-You'll write a semester-long qualitative research paper in this class. This is a longform research paper divided into 3 "parts" or "phases" for ease of drafting and revising over the semester. You'll write 2 drafts in each phase. While your drafts don't have to be polished until the final submission, I recommend you submit a draft that's as complete as possible &mdash; my feedback is more useful when there's more for me to review.
+You'll write a semester-long qualitative research paper in this class. This is a longform research paper divided into 3 units for ease of drafting and revising over the semester. You'll write 2 drafts in each unit. While your drafts don't have to be polished until the final submission, I recommend you submit a draft that's as complete as possible &mdash; my feedback is more useful when there's more for me to review.
 
-Each phase includes 2 drafts:
+Each unit includes 2 drafts:
 
 - Draft 1 is an ungraded rough draft, where you begin describing, explaining, and organizing your raw thoughts and data. In addition to whatever the assignment asks for, these first drafts can contain notes to yourself, questions for me, copy-pasted secondary or primary data from your "Research Dump" file, or "[I know something goes here but I don’t know what yet]" placeholders &mdash; features of a rough draft. 
 - Draft 2 is a more complete, revised version of Draft 1, with a short (~250-500) reflection about your writing process and decisions you made while writing. Since you'll be working on this paper all semester, it's OK if it's rough until the final submission. As you read and think over the semester, parts of your paper may change, sometimes drastically, and that's OK too!
-- The final, full project (Phase 3 Draft 2) should be cleared of features of a rough draft. 
+- The final draft should be cleared of features of a rough draft. 
 
-The 3 phases of the qualitative research project are as follows:
+The 3 units of the qualitative research project are as follows:
 
-- Phase 1: Introducing Your Study 
-- Phase 2: Conducting Secondary and Primary Research
-- Phase 3: Organizing, Analyzing, and Presenting Data
+- Unit 1: Introducing Your Study 
+- Unit 2: Conducting Secondary and Primary Research
+- Unit 3: Organizing, Analyzing, and Presenting Data
 
-The subheadings you'll use to organize your paper, and the phases in which you'll draft them, are as follows:
+The sections you'll use to organize your paper, and the drafts/units in which you'll work on each section, are as follows:
 
-- Research Introduction (Phase 1)
-- Literature Review (Phase 2)
-- Discussion, i.e. your primary research data from interviews or vlog analysis (Phase 3)
-- Conclusion (Phase 3)
-- Works Cited (Phase 3)
+- Draft 1 - Research Introduction (Unit 1)
+- Draft 2 - Literature Review (Unit 2)
+- Draft 3 - Discussion, i.e. your primary research data from interviews or vlog analysis (Unit 3)
+- Draft 4 - Conclusion (Unit 3)
+- Draft 5 - Works Cited (Unit 3)
 
 As you draft, you'll add each section to the same document. The final draft will include each of these sections, with these subheadings, in the order listed above. 
 
-### Phase 1: Introducing Your Study 
+### Unit 1: Introducing Your Study 
 
 **Length**: ~300 words
 
-Phase 1 has 2 sections, titled *Research Introduction.*
+Unit 1 has 1 section, titled *Research Introduction.*
 
 Before beginning any research, the writer first needs to establish a connection to this work. Of course, introductions are about audiences as well, as they function as an opportunity to explain to readers the trajectory of their work, its focus, and the research’s value to readers. 
 
@@ -113,13 +113,13 @@ The Research Introduction asks you to consider how both your experiences and con
 
 The research hypothesis is the hardest, most important part of your paper, so don't feel down if you struggle with it. It's also normal for your hypothesis to change as you keep drafting and researching, so don't worry if you end up somewhere different than where you started later in the semester!
 
-### Phase 2: Conducting Secondary and Primary Research
+### Unit 2: Conducting Secondary and Primary Research
 
 **Length**: ~1000-1200 words minimum
 
-Phase 2 has one section, titled *Literature Review.* You'll add this section to your Phase 1 draft, right after *Research Introduction.*
+Unit 2 has one section, titled *Literature Review.* You'll add this section to your cumulative draft, right after *Research Introduction.* 
 
-The qualitative research project asks you to complete two forms of research: primary (interviews or blog/vlog analysis) and secondary (literature review). You'll use the annotated bibliographies you developed from conducting preliminary research in Phase 1 to develop your literature review for Phase 2. While completing secondary research, you'll also conduct three interviews or review three blogs/vlogs, using the interview questions you developed in Phase 1. 
+The qualitative research project asks you to complete two forms of research: primary (interviews or blog/vlog analysis) and secondary (literature review). You'll use the annotated bibliographies you developed from conducting preliminary research in Unit 1 to develop your literature review for Unit 2. While completing secondary research, you'll also conduct three interviews or review three blogs/vlogs, using the interview questions you developed in Unit 1. 
 
 Literature reviews require writers to explore the existing scholarship that has been completed relative to their research question/topic. Rather than using the literature as support for an argument (like in the "reports" you might be used to writing), students will work to summarize and synthesize the research conducted by writers and scholars related to their area of study. 
 
@@ -144,11 +144,11 @@ You should begin compiling a Works Cited at the end of your paper. This section 
 
 Your citations can be APA or MLA as long as you're consistent. 
 
-### Phase 3: Organizing, Analyzing, and Presenting Data
+### Unit 3: Organizing, Analyzing, and Presenting Data
 
 **Length**: ~1000-1200 words
 
-Phase 3 has two sections, titled *Discussion* and *Conclusion.* You'll add this section to your Phase 1 draft, right after *Literature Review.*
+Unit 3 has two sections, titled *Discussion* and *Conclusion.* You'll add this section to your cumulative draft, right after *Literature Review.*
 
 Using the themes you identified from coding your interviews and/or blog/vlog analysis, your themes clear, you will next complete your results, discussion, and conclusion sections. 
 

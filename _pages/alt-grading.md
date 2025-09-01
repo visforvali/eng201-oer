@@ -75,22 +75,15 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 > High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
 {: .block-warning }
 
-This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project &mdash; in which you'll 
-
-
-
-The assessment criteria for the high-stakes project are:
+This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for this high-stakes essay are:
 
 - Your writing decisions (form, content, genre) must reflect principles of writing in the disciplines
-- Your drafts must at least begin to address the criteria for that specific phase of drafting
-- 
+- Your drafts must at least begin to address the criteria for that specific unit of drafting
+- Your drafts must demonstrate ongoing engagement with course content and secondary and primary research
 
-After submitting your draft to Classes, and before you receive feedback and engage in #team workshop, you must post a brief reflection about your goals and choices for that draft to your #team channel &mdash; including the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
+After submitting your draft to Classes, and before you receive feedback and engage in #team workshop, you must post a brief process reflection about your goals and choices for that draft to your #team channel &mdash; including the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
 
-
-
-This project is divided into 3 "phases": Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Phase 1); Literature Review (Phase 2); Results (Phase 3); Conclusion (Phase 3). You’ll submit two drafts of each phase: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final formatted project will contain these revised, updated versions.
-
+This project is divided into 3 "units": Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Unit 1); Literature Review (Unit 2); Results (Unit 3); Conclusion (Unit 3). You'll submit two drafts of each unit: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final draft will contain these revised, updated versions.
 
 # Deadlines & Grace Period 😇
 
