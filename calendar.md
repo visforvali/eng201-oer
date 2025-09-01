@@ -1,20 +1,22 @@
 ---
 layout: home
-title: ENG 201 Writing in the Disciplines 👋🏾
+title: ENG 201 - Writing in the Disciplines 👋🏾
 permalink: /
 cover: /eng201-oer/assets/cozy_room_clementine.jpg
 ---
 
+_CRN: 72643-70373 Fall 2025 ASYNC_
+
 <img src="https://visforvali.github.io/eng201-oer/assets/gitbook/images/drmani.png" alt="Picrew profile of Vyshali, an Eelam Tamil woman" width="20%" style="float: left; margin: 15px; size: 12px; border-radius: 50%;">
 
-🪪 **Name**: [Dr. Vyshali Manivannan (Dr. Mani)](https://www.pace.edu/profile/vyshali-manivannan){:target="_blank"}   
+🪪 **Instructor**: [Dr. Vyshali Manivannan (Dr. Mani)](https://www.pace.edu/profile/vyshali-manivannan){:target="_blank"}   
 ⚧️ **Pronouns**: she/her   
 📧 **Email**: [vmanivannan@pace.edu](mailto:vmanivannan@pace.edu){:target="_blank"}     
 🥸 **Server name**: fhqwgads   
 🍵 **Office hrs**: 🕛 Tue 2-5, Wed 12-2 (DM for other), 📍 🔊Cafe   
 🌋 **My hill to die on**: Writing is thinking, not something that happens afterwards.   
 
-<button class="button button-span" href="https://zcal.co/drmani/coffee-chat" target="_blank">Book a coffee chat</button>   
+<button class="button button-span" style="text-align: center;" href="https://zcal.co/drmani/coffee-chat" target="_blank">Book a coffee chat!</button>   
 &nbsp;   
 
 Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disciplines this semester. I'm an Eelam Tamil American chronically ill writer, scholar, artist, and designer. I've taught writing and rhetoric, media studies, disability studies, and cultural studies for ~20 years. I have a PhD in Communication, Information, and Media from Rutgers and an MFA in Creative Writing from Columbia. I'm interested in digital multimodal composition, disability justice movements (mask up 😷 for your community!), and body mods. I also have a Siberian cat named Athena ([obligatory cat tax](/eng201-oer/assets/gitbook/images/cat_tax.jpg){:target="_blank"}).
@@ -39,7 +41,7 @@ The Fall 2025 calendar of readings and modules is below. If I change the schedul
 
 | Week of   | Course material | Due by 11:59PM |
 |:-------|:------|:-------|
-| 9/1 - 9/5 | 🕵️ Review [Syllabus](eng201-oer/_pages/syllabus){:target="_blank"}, [Alt-Grading System](){:target="_blank"}, [Writing Prompts](){:target="_blank"} <br/> ⚙️ Review [Discord Quickstart Guide](){:target="_blank"}, tech setup, exploration | Fri: Intro in #roll-call |
+| 9/1 - 9/5 | ⚙️ Join Discord server (invitation link on [Classes\Content\Syllabus](classes.pace.edu){:target="_blank"}) and get setup with [Discord Quickstart Guide](/_others/discord){:target="_blank"} <br/> 🔖 Complete [Module 0: Settling In](/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} <br/> 🔍 Get to know where things are on Discord, this course website, and Classes | Fri: Intro in #roll-call |
 | 9/8 - 9/12 | 📖 [Module 1: Writing in the Disciplines](){:target="_blank"} | Tue: 1 Ques Post <br/> Fri: 1 Answer |
 | 9/15 - 9/19 | 📖 [Module 2: Developing Research Questions](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] |
 | 9/22 &ndash; 9/26 | 📖 [Module 3: Discipline Narratives](){:target="_blank"} | Tue, Fri: [[weekly q&a](/eng201_oer/_pages/assignments){:target="_blank"}] <br/> #team Potential project |

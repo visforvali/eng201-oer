@@ -1,20 +1,16 @@
 ---
-title:  🍎 Alt-Grading System
+title:  💯 Alt-Grading System
 author: Dr. Mani
 date: 2025-08-02
 category: Jekyll
 layout: post
 ---
 
-# Overview 💯
-
 > ##### Attention!
 > You're guaranteed at least a B+ as your final grade if you do everything that's asked of you in the spirit you're asked to do it. But this doesn't mean anything goes! Read on for details.
 {: .block-danger }
 
-Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what were learning.
-
-The pedagogical and assessment methods used in PLV core writing courses are probably unlike the stereotypes of writing instruction that you're familiar with (butts in seats, pens to paper, expectations of mastery and assessments that are unrealistic, inequitable, and punitive). Our approaches and policies are designed to support learning as an ongoing, dynamic, trial-and-error process of emulation, experimentation, revision, reflection, and social collaboration (to name a few). 
+Grading is the worst part of teaching (for me) and learning (for you). Grades cause anxiety, self-doubt, combativeness, plagiarism, and GenAI use. To counter this, I use an "ungrading" schema: a system that prioritizes learning over grades and rewards experimentation and even the screw-ups that happen when we try out what were learning. This assessment method &mdash; used in all PLV core writing courses &mdash; is designed to support learning as an ongoing, dynamic, trial-and-error process of emulation, experimentation, revision, reflection, and social collaboration. 
 
 Nothing in this class needs to be perfect or polished, but this doesn't mean anything goes. I can't measure how hard you feel you tried or give "effort points" for work that ignores the course material. I need measurable evidence of how you're engaging in the class: e.g., frequency of participation, use of feedback, your writerly choices in assignments, etc.
 
@@ -45,9 +41,9 @@ You're expected to regularly, substantively participate in #classroom each week,
 
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
-- Posting at least your 2 required #classroom posts on Discord as required
+- Posting *at least* the 2 #classroom posts on Discord required every week
 - Posting in #team to collaboratively learn with your teammates
-- Reading and writing with classmates
+- Reading and writing with classmates in spaces/ways I can see/quantify
 - Organically replying and reacting to classmates' posts (no boring "discussion board"-style replies, please!)
 - Asking questions in #classroom as soon as you're confused
 
@@ -55,30 +51,72 @@ If there's another form that works for you, or if you're anxious about whether y
 
 # Assignments 📚
 
-You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class.
+You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded) writing in this class. 
 
-## Low-Stakes Writing
+> ##### Note
+> All [assignment guidelines](../assignments){:target="_blank"} are provided in advance so you can pace yourself as needed.
+{: .block-tip }
+
+## Low-Stakes (Ungraded) Discord Posts
+{:.no_toc}
 
 > ##### Attention!
 > Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 {: .block-danger }
 
-Low-stakes writing work, i.e. weekly #classroom posts or #team activities on Discord, asks you to briefly organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts.
+Low-stakes writing work, i.e. weekly #classroom posts or #team activities on Discord, asks you to briefly organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts. Weekly #classroom posts, i.e. #classroom discussion contributions to help you understand the material, should be posted to #classroom by 11:59PM on Tuesdays (Questioning Posts) and Fridays (Answering Posts). Project-related activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
 
-**Weekly #classroom posts, i.e. #classroom discussion contributions to help you understand the material, should be posted to #classroom by 11:59PM on Tuesdays and Fridays.** 
+Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them).
 
-By Tues 11:59PM | 1 post asking a specific question about: something you've learned from one of the week's assigned readings about research writing; *or* about something you'd like help deciphering in a scholarly text you're reading for one of your qualitative research project drafts.
-By Fri 11:59PM |  1 post attempting to answer one of your classmates' questions (you must answer a question no one else has tried to answer yet, but you can contribute to other questions in addition to boost your participation grade).
+## High-Stakes (Graded) Writing 🚀
+{:.no_toc}
 
-Any project-related activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar). 
+> ##### Important!
+> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
+{: .block-warning }
 
-> ##### Note
-> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
-{: .block-tip }
-
-
+This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project &mdash; in which you'll 
 
 
 
-QUALITATIVE RESEARCH PROJECT ━━━	40% 
-This project is divided into 3 “phases”: Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Phase 1); Literature Review (Phase 2); Results (Phase 3); Conclusion (Phase 3). You’ll submit two drafts of each phase: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final formatted project will contain these revised, updated versions.
+The assessment criteria for the high-stakes project are:
+
+- Your writing decisions (form, content, genre) must reflect principles of writing in the disciplines
+- Your drafts must at least begin to address the criteria for that specific phase of drafting
+- 
+
+After submitting your draft to Classes, and before you receive feedback and engage in #team workshop, you must post a brief reflection about your goals and choices for that draft to your #team channel &mdash; including the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
+
+
+
+This project is divided into 3 "phases": Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Phase 1); Literature Review (Phase 2); Results (Phase 3); Conclusion (Phase 3). You’ll submit two drafts of each phase: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final formatted project will contain these revised, updated versions.
+
+
+# Deadlines & Grace Period 😇
+
+> ##### Important!
+> This grace period doesn't apply to a lack of participation via text chat, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final draft of the qualitative research project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
+{: .block-warning }
+
+> ##### Attention!
+> Please note that the grace period is 1 week *only*; I'm unable to accept work on a rolling basis whenever around you get to it. 
+{: .block-danger }
+
+I accept *all* writing assignments with no penalty or questions asked **within 1 week of the original deadline** (as long as they meet the rest of the assignment criteria). Please note that I can't promptly review late work, and I don't accept work more than 1 week late unless we made alternate arrangements in advance.
+
+# Redemption Points 🎟️
+
+> ##### Attention!
+> Using GenAI for anything in this course will automatically disqualify you from these opportunities.
+{: .block-danger }
+
+When you very proactive and conversational in our server's text channels beyond what is required in a given week, i.e. more than your two required weekly posts and other assigned activities (whether what you say is correct or not), I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in for different chances to "redeem" a grade:
+
+| Points	| Resubmit For |
+|:-------|:------|:-------|
+| 2 pts	| You can submit 1 missed/no-credit low-stakes writing work. |
+| 4 pts	| You can revise and resubmit 1 missed/no-credit high-stakes draft. |
+| 6 pts	| You can add 1% to your participation score. |
+| 14 pts | You can add 1/3 of a letter grade to your final course grade. |
+
+If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).

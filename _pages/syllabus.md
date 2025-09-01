@@ -32,15 +32,13 @@ All required readings are provided for free. They're uploaded to [Classes\Conten
 
 # Technology/Platforms 🌐
 
-This is an online synchronous course that meets twice a week using Discord for sync sessions and sync/async text chats. Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
-
-The server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](../discord){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+This is an online asynchronous course that uses Discord for async text chats, along with occasional use of Classes. The server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](../discord){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 > ##### IMPORTANT
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing (your project drafts), and share your grades with you.
 {: .block-warning }
 
-We'll use 2 platforms (plus occasional use of Classes) this semester:
+We'll use 2 primary platforms this semester:
 
 - **Discord**: Discussion forum for sync class sessions, sync and async text chats, low-stakes writing assignments, workshops, announcements.
 - **Course Website**: This website, where course content is posted.
@@ -75,7 +73,7 @@ To request an official accommodation for a qualifying disability a student must 
 ## ENG 201: Attendance Policy 🙋
 
 > ##### Attention!
-> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
+> In this class, attendance doesn't mean showing up and passively existing. You have to actively participate in #classroom and #team text chats to be counted as present. If a ballpark number helps, or if you're looking to boost your overall participation, aim for the minimum required posts (low-stakes homework, teamwork) per week +1.
 {: .block-danger }
 
 > ##### Note
