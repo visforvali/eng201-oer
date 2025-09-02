@@ -80,6 +80,7 @@ This class revolves around one multipart high-stakes writing assignment &mdash; 
 - Your writing decisions (form, content, genre) must reflect principles of writing in the disciplines
 - Your drafts must at least begin to address the criteria for that specific unit of drafting
 - Your drafts must demonstrate ongoing engagement with course content and secondary and primary research
+- You must engage in substantive revision between drafts.
 
 After submitting your draft to Classes, and before you receive feedback and engage in #team workshop, you must post a brief process reflection about your goals and choices for that draft to your #team channel &mdash; including the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
 
@@ -113,3 +114,6 @@ When you very proactive and conversational in our server's text channels beyond 
 | 14 pts | You can add 1/3 of a letter grade to your final course grade. |
 
 If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).
+
+> ###### Save Yourself from Panicked Exaggeration!
+> Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B aren't the same!

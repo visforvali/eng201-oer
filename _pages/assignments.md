@@ -1,7 +1,7 @@
 ---
-title:  ✍️ Assignments
+title: ✍️ Assignments
 author: Dr. Mani
-date: 2025-08-20
+date: 2025-08-21
 category: Jekyll
 layout: post
 ---
@@ -20,10 +20,10 @@ These posts won't be perfect &mdash; as a matter of fact, they shouldn't be. I h
 
 The questions and answers you come up with in these low-stakes posts allow me to meet you at your level and interests in engaging with you and helping you progress in your writing and learning. 
 
-## Questioning
+## Question & Answer
 
 > ##### Due Dates
-> Your weekly question post is due to #classroom by 11:59PM every Tues (unless indicated differently on the Calendar).
+> Your weekly question post is due to #classroom by 11:59PM every Tues (unless indicated differently on the Calendar). Your weekly answer post is due by 11:59PM every Fri (unless indicated differently on the Calendar).
 {: .block-danger}
 
 In your weekly Question post, you'll ask a specific question about:
@@ -31,24 +31,14 @@ In your weekly Question post, you'll ask a specific question about:
 - Something you've learned from one of the week's assigned readings about research writing, *or* 
 - Ssomething you'd like help deciphering in a scholarly text you're reading for one of your qualitative research project drafts.
 
-## Answering
-
-> ##### Due Dates
-> Your weekly answer post is due by 11:59PM every Fri (unless indicated differently on the Calendar).
-{: .block-danger}
-
 In your weekly Answer post, you'll attempt to answer:
 
 - A question one of your classmates posted that no one else has tried to answer yet
 - In addition to that required post, you can answer questions posed by other classmates, whether or not they have responses, to boost your participation grade 
 
-## Other Low-Stakes Activities
-
-Occasionally, you'll submit ungraded low-stakes writing that's building towards your essay drafts to your #team channel. These activities are described and listed in the weekly modules when they're due.
-
 > ##### Due Dates
-> Any project-related team activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
-{: .block-danger}
+> Occasionally, you'll submit ungraded low-stakes writing that's building towards your essay drafts to your #team channel. These activities are described and listed in the weekly modules when they're due. Any project-related team activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
+{: .block-warning}
 
 ## Process Reflections 🤔
 

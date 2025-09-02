@@ -34,7 +34,7 @@ All required readings are provided for free. They're uploaded to [Classes\Conten
 
 This is an online asynchronous course that uses Discord for async text chats, along with occasional use of Classes. The server invite link is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](../discord){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
-> ##### IMPORTANT
+> ##### Important!
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing (your project drafts), and share your grades with you.
 {: .block-warning }
 
