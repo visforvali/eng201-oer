@@ -12,35 +12,4 @@ Offered by the [Dept. of English, Writing, and Cultural Studies](https://www.pac
 
 In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic (your major) or professional (your intended career) fields; you'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; that repeatedly surfaces in those conversations. This qualitative semester-long research study is meant to position you as researchers engaging in contemporary, ongoing conversations in your fields.
 
-
-
-
-
-
-
-
-
-In doing so, you'll come to better understand the communicative expectations associated with your field. 
-
-You'll be assigned both low-stakes 
-high-stakes and low-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of larger assignments and evolves through peer collaboration, analytical writing, and revision. 
-
-students write to learn, not simply compose to show mastery. Classrooms are process oriented, collaborative spaces in which students are free to take risks, to play with form and genre, breaking from prescriptive approaches to writing that often leave writers feeling restricted and unfulfilled.
-
-Test 
-
-This course website for the asynchronous Fall 2025 section of ENG 201: Writing in the Disciplines at Pace University, taught by Dr. Vyshali Manivannan, uses the [Jekyll Gitbook](https://sighingnow.github.io/jekyll-gitbook/){:target="_blank"} theme by Tao He.
-
-It was developed in response to having generative AI forced into my course LMS, where it fabricates lies, steals student writing (and increasing false positives in plagiarism detection), and manipulates students and faculty into believing they can outsource any part of their thought process without proportionally atrophying their brains.
-
-It also allows us to primarily use 2 technological platforms: Discord for low-stakes writing and async class discussion; and this site for course content (with essay drafts to be posted to Classes).
-
-This site contains:
-
-- announcements,
-- the syllabus,
-- a course calendar,
-- weekly modules, including PDFs/links of assigned readings, 
-- about the instructor,
-- instant, full-text search and page indexing,
-- collapsible sidebar navigation menu
+You'll be assigned both high-stakes and low-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of larger assignments and evolves through peer collaboration, analytical writing, and revision. In doing so, you'll come to better understand the communicative expectations associated with your field. 
