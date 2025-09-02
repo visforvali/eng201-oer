@@ -75,15 +75,14 @@ The 3 units of the qualitative research project are as follows:
 
 The sections you'll use to organize your paper, and the drafts/units in which you'll work on each section, are as follows:
 
-- Draft 1 - Research Introduction (Unit 1)
-- Draft 2 - Literature Review (Unit 2)
-- Draft 3 - Discussion, i.e. your primary research data from interviews or vlog analysis (Unit 3)
-- Draft 4 - Conclusion (Unit 3)
-- Draft 5 - Works Cited (Unit 3)
+- Drafts 1-2 - Research Introduction (Unit 1)
+- Drafts 3-4 - Literature Review (Unit 2)
+- Drafts 4-5 - Discussion, i.e. your primary research data from interviews or vlog analysis, and Conclusion (Unit 3),
+- Final Draft - Works Cited (Unit 3)
 
 As you draft, you'll add each section to the same document. The final draft will include each of these sections, with these subheadings, in the order listed above. 
 
-### Unit 1: Introducing Your Study 
+## Unit 1: Introducing Your Study 
 
 **Length**: ~300 words
 
@@ -103,7 +102,7 @@ The Research Introduction asks you to consider how both your experiences and con
 
 The research hypothesis is the hardest, most important part of your paper, so don't feel down if you struggle with it. It's also normal for your hypothesis to change as you keep drafting and researching, so don't worry if you end up somewhere different than where you started later in the semester!
 
-### Unit 2: Conducting Secondary and Primary Research
+## Unit 2: Conducting Secondary and Primary Research
 
 **Length**: ~1000-1200 words minimum
 
@@ -134,7 +133,7 @@ You should begin compiling a Works Cited at the end of your paper. This section 
 
 Your citations can be APA or MLA as long as you're consistent. 
 
-### Unit 3: Organizing, Analyzing, and Presenting Data
+## Unit 3: Organizing, Analyzing, and Presenting Data
 
 **Length**: ~1000-1200 words
 
@@ -146,16 +145,9 @@ The Discussion section of the qualitative research project is where you'll repor
 
 The Discussion section is at least 5 paragraphs and includes:
 
-- Paragraph 1: Name and describe the significance of the most exemplary codes (your themes) from your interviews or blog/vlog analysis. Discuss how participant responses related (or didn't relate) to the literature you reviewed and to your research hypothesis.
-
-- Paragraph 2-4: 
-
-Evidence from each interview transcript demonstrating each theme you identified in Paragraph 1. You should have three voices &mdash; the participants, your sources, and your own voice. 
-
-Your job is to first put the sources in dialogue with your participants. Next, you will explain your findings and how they relate to the research question &mdash; how they answer it, what was learned, why is this important/interesting?
-
-Offer and do a textual analysis of direct quotes from each of the 3 interviews and/or blogs/vlogs as evidence of those patterns. You should organize these paragraphs by idea, so you can include evidence from each interview in a single paragraph. Within each paragraph, organize your evidence in order of significance to your research hypothesis.
-- Paragraph 5: How does your interview data expand on, complicate, or challenge your research hypothesis? (It's OK if the data contradicts your hypothesis; explain outlier data instead of ignoring it.) Make sure to explain the study's limitations as well.
+- *Paragraph 1*: Name and describe the significance of the most exemplary codes (your themes) from your interviews or blog/vlog analysis. Discuss how participant responses related (or didn't relate) to the literature you reviewed and to your research hypothesis.
+- *Paragraphs 2-4*: Evidence from each interview transcript demonstrating each theme you identified in Paragraph 1. You should have three voices &mdash; the participants, your sources, and your own voice. Your job is to first put the sources in dialogue with your participants. Next, you will explain your findings and how they relate to the research question &mdash; how they answer it, what was learned, why is this important/interesting? Offer and do a textual analysis of direct quotes from each of the 3 interviews and/or blogs/vlogs as evidence of those patterns. You should organize these paragraphs by idea, so you can include evidence from each interview in a single paragraph. Within each paragraph, organize your evidence in order of significance to your research hypothesis.
+- *Paragraph 5*: How does your interview data expand on, complicate, or challenge your research hypothesis? (It's OK if the data contradicts your hypothesis; explain outlier data instead of ignoring it.) Make sure to explain the study's limitations as well.
 
 The Conclusion section is intended to help the reader understand why your research should matter to them after they have finished reading the paper. A conclusion is not merely a summary of the main topics covered or a re-statement of your research problem, but a synthesis of key points and &mdash; if applicable &mdash; where you recommend new areas for future research. In short, try to explore the following:
 
