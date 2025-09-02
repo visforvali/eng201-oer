@@ -1,7 +1,7 @@
 ---
-title: 🍎 General Feedback Sheet
+title: 🍎 General Feedback
 author: Dr. Mani
-date: 2025-09-01
+date: 2025-08-28
 category: Jekyll
 layout: post
 ---

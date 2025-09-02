@@ -1,7 +1,7 @@
 ---
 title: 🎵 Playlists
 author: Dr. Mani
-date: 2025-08-27
+date: 2025-09-01
 category: Jekyll
 layout: post
 ---
