@@ -10,7 +10,7 @@ This page will contain frequently asked questions as they're asked and answered 
 
 # How do I schedule a coffee chat with you?
 
-You can reserve an appointment with me on Zcal, by visiting my scheduling link directly or clicking the "Book a Coffee Chat!" button on the home page. Follow the directions on Zcal to schedule your appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.
+You can reserve an appointment with me on Zcal, by visiting [my scheduling link](https://zcal.co/drmani/coffee-chat) directly or clicking the "Book a Coffee Chat!" button on the home page. Follow the directions on Zcal to schedule your appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.
 
 <img src="http://visforvali.github.io/ws297y/assets/images/zcal.png" alt="Preview of Zcal invite">
 
