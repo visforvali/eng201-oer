@@ -72,7 +72,7 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 {:.no_toc}
 
 > ##### Important!
-> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit."
+> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
 {: .block-warning }
 
 This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for this high-stakes essay are:
@@ -89,7 +89,7 @@ This project is divided into 3 "units": Research Introduction; Secondary Researc
 # Deadlines & Grace Period 😇
 
 > ##### Important!
-> This grace period doesn't apply to a lack of participation via text chat, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final draft of the qualitative research project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
+> **This grace period doesn't apply to a lack of participation via text chat**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final draft of the qualitative research project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
 {: .block-warning }
 
 > ##### Attention!
