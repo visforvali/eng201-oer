@@ -57,18 +57,18 @@ Low-Stakes Writing | 20%
 # Policies for ENG 201 & Pace
 
 > ##### Attention!
-> Make sure to read the policies specific to this course! You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. I've labeled them "ENG 201" and "Pace" to differentiate in case you want to skim/skip Pace's boilerplate stuff.
+> Make sure to read the policies specific to this course! You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. I've labeled them "ENG 201" and "Pace" in case you want to skim/skip Pace's boilerplate stuff.
 {: .block-danger }
 
 ## ENG 201: Accessibility & Student Support ♿
 
-If something might affect or is affecting your academic performance, please talk to me ASAP so we can work together to meet your needs and the course reqs. I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. **We will need to synchronously meet to work out alternate arrangements.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself.
+If something might affect or is affecting your academic performance, please talk to me ASAP so we can work together to meet your needs and the course reqs. I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. **We will need to synchronously meet to work out alternate arrangements.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
 
 > ##### Note
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
 {: .block-tip }
 
-To request an official accommodation for a qualifying disability a student must self-identify and register with the Student Accessibility Services for his/her/their campus. [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} for the New York City campus may be contacted at 212-346-1199 or 161 William St, 10th Floor. Student Accessibility Services for the Westchester campuses may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville.
+To request an official accommodation for a qualifying disability, a student must self-identify and register with [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} (SAS) for his/her/their campus. NYC SAS may be contacted at 212-346-1199 or 161 William St, 10th Floor. PLV SAS may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
 ## ENG 201: Attendance Policy 🙋
 
@@ -94,7 +94,7 @@ If you get sick or experience some other health challenge, communicate with me e
 
 Remember, communal care, mutual aid, and compassion will get us through!
 
-## Pace: Antiracism Education (ARE)
+## Pace: Antiracism Education (ARE) ✊🏾
 
 This class is an antiracism education course and fulfills the ARE requirement, so diversity, equity, race, and ethnicity are central to learning content and achieving course goals. In the context of our course content, you’ll learn about commitments to eliminate racism, receive exposure to a variety of perspectives, and acquire an antiracist toolkit that you can use in future classes or workplaces or for social justice causes. Antiracism education is considered necessary for career readiness, so this class will also help you prepare for your future world of work.
 
@@ -112,7 +112,7 @@ If you choose to risk using an LLM in this class, you need to effectively fact-c
 
 Read the rest of the [Writing without AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"} policy and philosophy here. And remember: GenAI/LLM use might be trendy but isn’t inevitable. You do harm to yourself and to the aims of social justice by using it. If you’ve been using it, use this course to experiment with getting back to brain-only writing.
 
-## Pace: Writing Support & Learning Commons ✏️
+## Pace: Writing Support & Learning Commons 🧑‍🏫
 
 Writing support is available for all students at Pace University. We offer confidential one-to-one appointments (on-site or on-line), group sessions, and drop-in sessions free of charge. Students can bring writing from all disciplines and at all stages of the writing process, from outlines to completed drafts. Students are encouraged to bring all types of writing, including resumes, internship and graduate school applications, and personal creative work. We are dedicated to developing independent learners through purposeful interactions with trained, well-qualified peer and professional staff. Check out our [writing services and current hours of operation](https://www.pace.edu/learning-commons/services-current-students){:target="_blank"} and use [TracCloud](https://www.pace.edu/sites/default/files/2022-11/learning-commons-making-appointments-using-trac-cloud.pdf){:target="_blank"} to schedule an appointment. 
 
