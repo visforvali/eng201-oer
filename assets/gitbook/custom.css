@@ -282,7 +282,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
   align-items: center;
   color: #fff;
   font-weight: 400;
-  margin-left: 15%;
+  margin-left: 35%;
 }
 
 .button:hover {
