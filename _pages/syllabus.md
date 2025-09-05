@@ -8,6 +8,10 @@ layout: post
 
 # Course Description 🧐
 
+> ###### Important!
+> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules. The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in the announcements thread in #classroom.
+{:.block-warning}
+
 ENG 201: Writing in the Disciplines serves as the final course in Pace University - Pleasantville's (PLV) three-class core writing sequence, building on the writing skills you learned in ENG 110: Composition and/or ENG 120: Critical Writing. In ENG 110, you developed critical reading and writing skills and explored your writerly identities; in ENG 120, you developed analytical skills and considered how writerly identities are shaped through participation in discourse communities. As a writing in the disciplines (WID) course, ENG 201 builds on these skills with attention to discipline-specific expectations around research writing.
 
 In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic or professional fields, i.e. your major or intended career. You'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; a problem or tension that repeatedly surfaces in contemporary conversations. You'll be assigned both low-stakes and high-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of drafts of a qualitative semester-long research study that evolve through peer collaboration, analytical writing, and revision. 
