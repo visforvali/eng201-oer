@@ -189,7 +189,7 @@ GIFs/Stickers: You can search for and post animated GIFs and stickers by clickin
 - **Linking to Messages**: To link to an existing message, right-click it and select Copy Message Link, then paste it into your own message.
 - **Pin a Message**: In channels where you have permission to pin messages, right-click the message you want to pin and click Pin Message. (You can find pinned messages in a specific text channel by navigating to that channel and clicking the 📌 icon at the top of the screen.)
 
-_If you react to a message with ⭐, the message will be cross-posted to #⭐│starboard, along with a link to the original message._
+_If you react to a message with ⭐, the message will be cross-posted to #starboard, along with a link to the original message._
 
 ### Threads
 {:.no_toc}
@@ -270,7 +270,7 @@ _Discord Help Website: Ctrl/Cmd + Shift + H_
 - **Strikethrough**: ``~~strikethrough~~``
 - **Masked Links**: ``[Text](URL)`` to make text a clickable link instead of a pasted URL
 - **Block Quotes**: ``>``  at the beginning of quote
-- **Spoiler Text**: ``||``Text``||`` or highlight text and click the 👁️ icon to write blacked-out, click-to-reveal text (for triggering content/spoilers), 
+- **Spoiler Text**: ``||``Text``||`` or highlight text and click the 👁️ icon to write blacked-out, click-to-reveal text (for triggering content/spoilers)
 - **Bulleted List**: ``- bullet`` for bullet points; to indent a nested bullet, hit ``Shift + Enter`` to make a new line and add a space in front of the hyphen, `` - nested``
 - **Space Between Messages**: ``** **`` then ``Shift + Enter`` at the beginning or end of a message to increase spacing between posts
 - **Monospaced Font**: Type two backticks ` around text for monospaced font/code blocks
