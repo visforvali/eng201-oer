@@ -9,12 +9,12 @@ layout: post
 # Course Description 🧐
 
 > ###### Important!
-> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #syllabus-rules. The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in the announcements thread in #classroom.
+> This syllabus is cross-posted in Classes\Content\Syllabus and on Discord #welcome. The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in #classroom and Classes\Announcements.
 {:.block-warning}
 
 ENG 201: Writing in the Disciplines serves as the final course in Pace University - Pleasantville's (PLV) three-class core writing sequence, building on the writing skills you learned in ENG 110: Composition and/or ENG 120: Critical Writing. In ENG 110, you developed critical reading and writing skills and explored your writerly identities; in ENG 120, you developed analytical skills and considered how writerly identities are shaped through participation in discourse communities. As a writing in the disciplines (WID) course, ENG 201 builds on these skills with attention to discipline-specific expectations around research writing.
 
-In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic or professional fields, i.e. your major or intended career. You'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; a problem or tension that repeatedly surfaces in contemporary conversations. You'll be assigned both low-stakes and high-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of drafts of a qualitative semester-long research study that evolve through peer collaboration, analytical writing, and revision. 
+In ENG 201, you'll do qualitative research on contemporary scholarly conversations taking place in your academic or professional fields, i.e. your major or intended career. You'll identify a specific discourse concerning a recent/ongoing problem or tension that scholars in/of your field are trying to figure out &mdash; a problem or tension that repeatedly surfaces in contemporary conversations. You'll be assigned both low-stakes and high-stakes writing, where low-stakes or informal writing assignments are designed to give you time and space to work through a text or complex idea, and high-stakes writing consists of drafts of a qualitative semester-long research study that evolves through peer collaboration, analytical writing, and revision. 
 
 This qualitative semester-long research study is meant to position you as researchers engaging in contemporary, ongoing conversations in your fields. Through developing your understanding of disciplinary genres and the craft of scholarly writing, you'll come to better understand the communicative expectations associated with your field. 
 
@@ -25,7 +25,7 @@ You'll leave this course with the new or improved ability to:
 - Engage in critical analysis through well-developed ideas and clear purpose
 - Write informal/formal exposition, summary, critique, analysis, narrative, research writing, and reflection
 - Write for specific audiences and rhetorical situations
-- Conduct primary and secondary research through field work (like interviews) and sources from the library and Internet databases
+- Conduct primary and secondary research through field work and sources from the library and Internet databases
 - Identify, evaluate, integrate, and synthesize sources
 - Use drafting processes to plan, generate ideas, do peer review, and revise using feedback
 - Apply academic conventions at the sentence- and paragraph-level by the final draft, including grammar, spelling, usage, citations, and formatting
@@ -44,7 +44,7 @@ This is an online asynchronous course that uses Discord for async text chats, al
 
 We'll use 2 primary platforms this semester:
 
-- **Discord**: Discussion forum for sync class sessions, sync and async text chats, low-stakes writing assignments, workshops, announcements.
+- **Discord**: Discussion forum for async weekly discussions, low-stakes writing assignments, workshops, announcements.
 - **Course Website**: This website, where course content is posted.
 - **Classes**: Platform for submitting assignments and viewing grades.
 
@@ -66,7 +66,7 @@ Low-Stakes Writing | 20%
 
 ## ENG 201: Accessibility & Student Support ♿
 
-If something might affect or is affecting your academic performance, please talk to me ASAP so we can work together to meet your needs and the course reqs. I want you to succeed! If you're dealing with issues or a schedule that will affect your performance, please proactively talk to me. You don't need documentation to talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. **We will need to synchronously meet to work out alternate arrangements.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
+If something might affect or is affecting your academic performance, please talk to me ASAP so we can work together to meet your needs and the course reqs. I want you to succeed! You don't need documentation to proactively talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. Barring emergencies, I need as much advance notice as possible to effectively accommodate you. **We will need to synchronously meet to work out alternate arrangements.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
 
 > ##### Note
 > If you select the "Check in Weekly" role on Discord in #get-roles, I'll encourage you to participate each week by DMing you every Monday with basic questions about how you're doing, if you're confused about the materials, and if you'd like to chat sometime. If you need help surmounting any anxiety about reaching out to your professors, choose this role, and reply to me when I reach out to you to get the conversation going!
@@ -92,9 +92,7 @@ Since a large part of your course grade comes from consistent, active participat
 
 If you get sick or experience some other health challenge, communicate with me early so we can make a plan to make a plan when you’re better. We'll get you caught up when you're well enough to resume participating. As a high-risk disabled individual myself, if I become sick, especially with COVID-19 or another serious illness, I'll need to aggressively rest. You'll have the materials and each other on Discord to help you continue with your learning. I'll rejoin when I'm well enough.
 
-> ##### Note
-> I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning.
-{: .block-warning }
+I don't want any of us risking our well-being for this class, but I can only overextend myself so much &mdash; meaning I can't give unlimited extensions if everyone keeps getting sick. The more you reduce your risk of getting sick, the more likely we are to finish the course without significant interruptions to course continuity and your learning.
 
 Remember, communal care, mutual aid, and compassion will get us through!
 
