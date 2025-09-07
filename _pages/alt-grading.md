@@ -18,14 +18,14 @@ Nothing in this class needs to be perfect or polished, but this doesn't mean any
 
 For you to earn at least a B+ in this class, you must:
 
-- Complete all required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me.
+- Complete all required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me
 - Attempt to write nearly all of the components of required assignments in each draft.
-- Regularly incorporate feedback and what you learn in class in your assignments.
-- Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments.
-- Regularly participate in voice and text chat every week.
-- Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together.
-- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!).
-- Be open to critique and accountable for the work you did (or didn't do).
+- Regularly incorporate feedback and what you learn in class in your assignments
+- Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments
+- Regularly participate in voice and text chat every week
+- Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together
+- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!)
+- Be open to critique and accountable for the work you did (or didn't do)
 
 You can always check in with me if you're unsure of how you’re doing!
 
