@@ -35,3 +35,13 @@ With the caveat that universal access is impossible &mdash; it's inevitable that
 - In a full class setting, I'm unable to send frequent, tailored reminders for work already outlined in the materials. I can automate weekly reminders to check the Calendar for work due that week through Discord. Any other reminders will be posted to both #classroom and Classes\Announcements (so make sure you've set up Classes to forward announcements to your email if email is your communication preference). 
 - Content notes will be provided if/when relevant.
 - Disciplinary language is unavoidable in a class like this, but in weekly modules, I use both plain language and attempt to introduce and explain necessary conceptual terms in plain language. 
+
+# How do you respond to #classroom Q&A posts throughout the week?
+
+I usually start reading your question posts on Tuesdays, so I can plan my responses. From Wednesday to Friday, I post responses to your questions and mention you so you receive a notification. To demonstrate how your questions inform each other, overlap, or are more similar than they might appear at first, I consolidate similar questions in my replies as much as possible. However, you can probably find answers to your specific questions in my responses to other students, or in any general comments I contribute to our weekly discussions, and you can also get answers from your classmates' responses!
+
+I'm unlikely to interact with questions posted after the Tuesday 11:59PM deadline for question posts, but posts submitted within the grace period are accepted for credit.
+
+# Do I need to finish the module to post my Q&As?
+
+No! As explained in the syllabus, assignments, and alt-grading system pages, you can post your question before completing all the work in the module. You should begin the module before Tuesday &mdash; over the weekend if possible &mdash; and post a question based on what you *did* manage to complete by Tuesday.
