@@ -21,20 +21,12 @@ Be sure to also review my responses to you and your classmates in #classroom dis
 # A Note on Scoring
 
 > ###### Important!
-> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit." **"N" scores are given if you don't submit a draft or if your submission doesn't demonstrate a connection to the assignment or to our course content thus far.**
+> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit." **"N" scores are given if you don't submit a draft, if your submission doesn't demonstrate a connection to the assignment or to our course content thus far, or if you did not use feedback provided to the class during weekly Q&A.**
 {: .block-warning }
 
 Drafts are ungraded to allow you to experiment with how you implement feedback without fear of penalty.
 
 You might be used to writing courses where you're explicitly told what to do, as though writing and revision are processes that belong to someone else &mdash; processes of making corrections that another person notices and tells you how to fix. In reality, revision has to start and end with you! But since writing is also as an activity of thought that's socially, collaboratively improved, my role as your writing instructor is to provide you with guidance and just enough direction for you to be able to apply your own thinking and figure out what to do with each item on your own after attempting to locate it in your own work on your own. This allows you to think through how to say something &mdash; what research or other work needs to be done in order to say something &mdash; and then decide how you need to put it into action, based on feedback during workshop weeks and all my answers to all your questions each week. 
-
-
-
-
-
-
-After each workshop week, I’ll add feedback in bullet points to the General Feedback page on the website.
-
 
 ## How to Use This List ✅
 
@@ -47,9 +39,6 @@ When working with this list *on your own,* I recommend you do the following:
 - Repeat this process with the next bullet point, and the next, and the next!
 
 In my experience, all of the issues that tend to appear on General Feedback Sheets in are fairly common issues in early drafts in core writing classrooms, so don't feel like you're alone if you find your draft contains most of the items below!
-
-
-
 
 ## Types of Feedback
 For ease of revision, feedback will be divided into 2 categories: higher-order concerns and lower-order concerns:
