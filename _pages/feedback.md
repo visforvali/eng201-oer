@@ -88,6 +88,12 @@ The same goes for if you are ignoring feedback or otherwise not engaging in the 
 Make sure to implement feedback as you go
 
 
+
 # Lower-Order Concerns
 
 *Pending Draft 1 submissions!*
+
+
+> ##### 🛑 Stop! Read (TBD)
+Read [this annotated version of the Research Introduction](){:target="_blank"} of one of the model student papers. 
+{: .block-tip }
