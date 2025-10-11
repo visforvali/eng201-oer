@@ -55,7 +55,38 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 
 # Higher-Order Concerns
 
-*Pending Draft 1 submissions!*
+## Unit 1
+
+How do you see the "attitude towards research" you're beginning to acquire intersecting with writing skills you've already picked up? With other skills or forms of thinking you already use in other arenas/spaces? As you begin to revise using all the feedback you've gathered this week, make sure your Research Introduction aligns with the following: 
+ 
+
+### Qualitative Research Comments
+
+- Your research hypotheses should be exploratory and understanding-oriented
+- Existing scholarly literature and familiarity with contemporary discourse of the field should: 1. play a major role in the development of your research hypotheses, and 2. justify the need for exploring the research problem
+- A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
+
+### Assignment-Specific Comments 
+
+
+- The specific organization of your papers is in the assignment guidelines (in the syllabus doc). 
+- You must address all feedback to demonstrate engagement in the course and assignment goals, which includes weekly #classroom chats, 
+
+
+
+The same goes for if you are ignoring feedback or otherwise not engaging in the class (e.g., if you've missed the last 4 weeks of participation, your final course grade will have been impacted, and more importantly, reading your takeaways each week is how I make sure you're on track to succeed).
+
+
+
+
+### Research Process Comments
+
+- Being hyperspecific with your word choices when entering them into the search engine allows for more concentrated and precise results in the articles and information that search yields.
+
+### WID Comments
+
+Make sure to implement feedback as you go
+
 
 # Lower-Order Concerns
 
