@@ -62,38 +62,41 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 
 ### Qualitative Research Comments
 
-- Your research hypotheses should be exploratory and understanding-oriented
-- Existing scholarly literature and familiarity with contemporary discourse of the field should: 1. play a major role in the development of your research hypotheses, and 2. justify the need for exploring the research problem
-- A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
+- **Research hypothesis**. Your research hypotheses should be exploratory and understanding-oriented
+- **Simulation of disciplinary authority**. Existing scholarly literature and familiarity with contemporary discourse of the field should: 1. play a major role in the development of your research hypotheses, and 2. justify the need for exploring the research problem. 
+ - Make sure that your question does not only come from you but is informed by a couple of passes of the literature. Your question and hypothesis will likely evolve and change as we keep doing research, but your reader should get the sense that you are informed enough by scholars to not be omitting anything obvious.
+ - If your research questions seem unsubstantiated &mdash; e.g., something you think but may not (with a little research) actually be based in statistically significant fact &mdash; the next draft may not be accepted.
+- **Generalization/speculation**. Your research question should avoid generalization and speculation. 
+ - For instance, the motives/reasons that people have for behaving a certain way will always be wildly varied; you'll have to conduct a significant number of interviews, and no amount of interviews will be enough to make the case for an argument.
+ - For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
+ - You should never be making claims about "people" anyway but about a subset of people that is as specific as it can be. That means considering several factors of identity: race, gender, sexuality, religion, nationality and geographic location, a specific type of company/corporation (banking, pharmaceutical, agricultural), a specific type of law, etc.
+- **Avoid yes/no research questions**. Avoid research hypotheses that are inarguable, factual, or obvious. As discussed in class, research questions/hypotheses whose answers are simply “yes/no” or that can be answered with a fact that the reader could guess before reading your paper
+ - For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
+ - You should never be making claims about "people" anyway but about a subset of people that is as specific as it can be. That means considering several factors of identity: race, gender, sexuality, religion, nationality and geographic location, a specific type of company/corporation (banking, pharmaceutical, agricultural), a specific type of law, etc.
+- **Avoid research hypotheses that are opinions**. You can't argue a claim that is just your opinion, as it only comes from one person and more often than not will not apply widely.
+ - Avoid research questions/hypotheses whose answers can be guessed based on common sense. 
+ - For example, questions like "Is there a positive effect if impoverished families are given free education," "Will people rely on X law in cases where X law is advantageous to them," or "Do corporations behave ethically" don't merit academic inquiry &mdash; they'll just turn into a report.
+ - Don't worry about being too specific &mdash; this is rarely possible, and there are plenty of workarounds if few results come up when you search Google Scholar or Pace scholarly databases for your exact research questions.
+- **Specificity**. A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
+ - It's *always* better to start with too little literature and expand your questions than to have to rewrite a general approach to have a more specific direction.
 
 ### Assignment-Specific Comments 
 
-
-- The specific organization of your papers is in the assignment guidelines (in the syllabus doc). 
-- You must address all feedback to demonstrate engagement in the course and assignment goals, which includes weekly #classroom chats, 
-
-
-
-The same goes for if you are ignoring feedback or otherwise not engaging in the class (e.g., if you've missed the last 4 weeks of participation, your final course grade will have been impacted, and more importantly, reading your takeaways each week is how I make sure you're on track to succeed).
-
-
-
+- **Regularly revisit the guidelines!** The number one thing that is assessed in your projects isn’t perfect argumentation, grammar, or formatting, but are you paying attention to what the project is asking for and trying to address it in a careful, considered way.
+ - For example, taking risks in critical thinking that don't work is fine; ignoring that the project investigates a narrow issue that impacts one subset of employees of a field or that the Methodology has a specific structure suggests you aren’t closely reading the project-specific directions or examples 
+ - The specific organization of your papers is in the assignment guidelines (in the syllabus doc). 
+- You must address all instructor feedback to demonstrate engagement in the course and assignment goals, which includes weekly #classroom chats, feedback provided in #team, and any direct feedback given to you in any other channel of communication.
 
 ### Research Process Comments
 
-- Being hyperspecific with your word choices when entering them into the search engine allows for more concentrated and precise results in the articles and information that search yields.
+- **Turn your questions into hypotheses!** Your research hypothesis is your *answer* to your research question(s); this means that &mdash; if you didn't already, then definitely when you revise and expand for later drafts &mdash; you must provide a provisional answer to the question you pose, based on what you have seen of the literature (so far) and your own critical thinking. Once you have provisional answers that are narrow and that need sustained academic inquiry, you can delete the questions.
+- **Search terms**. Being hyperspecific with your word choices when entering them into the search engine allows for more concentrated and precise results in the articles and information that search yields.
 
 ### WID Comments
 
-Make sure to implement feedback as you go
+- Use your preliminary research and the resources in the [Appendix](/eng201-oer/appendix.md){:target="_blank"}.
+- Make sure to implement feedback as you revise and as you keep writing your way into future drafts.
 
-
-
-# Lower-Order Concerns
-
-*Pending Draft 1 submissions!*
-
-
-> ##### 🛑 Stop! Read (TBD)
+> ##### TBD by Fri 10/17/25: Annotated Research Introduction
 Read [this annotated version of the Research Introduction](){:target="_blank"} of one of the model student papers. 
 {: .block-tip }
