@@ -97,6 +97,6 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 - Use your preliminary research and the resources in the [Appendix](/eng201-oer/appendix.md){:target="_blank"}.
 - Make sure to implement feedback as you revise and as you keep writing your way into future drafts.
 
-> ##### TBD by Fri 10/17/25: Annotated Research Introduction
+> ##### TBD by Fri 10/24/25: Annotated Research Introduction
 Read [this annotated version of the Research Introduction](){:target="_blank"} of one of the model student papers. 
 {: .block-tip }
