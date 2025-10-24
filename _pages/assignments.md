@@ -112,7 +112,9 @@ The qualitative research project asks you to complete two forms of research: pri
 
 Literature reviews require writers to explore the existing scholarship that has been completed relative to their research question/topic. Rather than using the literature as support for an argument (like in the "reports" you might be used to writing), students will work to summarize and synthesize the research conducted by writers and scholars related to their area of study. 
 
-You'll tell your readers about previous research on the topic by summarizing and synthesizing **3 popular journals (not personal blogs, institutions or organizations, or consulting companies)** and **3 peer-reviewed articles** published within the last 3-5 years. You'll identify 2 important themes that connect these articles and go on to connect these themes to your own research hypothesis. 
+You'll tell your readers about previous research on the topic by summarizing and synthesizing ideally **6 peer-reviewed articles** published within the last 3-5 years. Using **3 peer-reviewed articles** and **3 articles from popular journals (not personal blogs, institutions or organizations, or consulting companies)** is also acceptable, but less preferred.
+
+You'll identify 2 important themes that connect these articles and go on to connect these themes to your own research hypothesis. 
 
 > ##### Tip!
 > Strong literature reviews use sources that examine different themes/ideas in the research hypothesis. Weak literature reviews try to "match" or "prove" the research hypothesis.
