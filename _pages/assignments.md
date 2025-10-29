@@ -116,6 +116,8 @@ You'll tell your readers about previous research on the topic by summarizing and
 
 You'll identify 2 important themes that connect these articles and go on to connect these themes to your own research hypothesis. 
 
+With a narrow enough set of research hypotheses, you'll find that the articles you select will have thematic and conceptual connections. These points of connections are likely to appear as you sort through your literature matrix and CSD through synthesizing your research, as the model papers (and the annotated example on the feedback page) also demonstrate. These connections will allow you categorize subsets of research under very specific descriptors, i.e. for the example I shared in an early module, "Ableist HR policies disenfranchising BIPOC professors with chronic pain limitations on campus" instead of "Disabled professors on campus" might be one theme, while another might be "Chronically ill professors' reliance on care work and mutual aid from colleagues." Identifying themes and sorting your secondary sources into them will help you organize your research and break down your specific research hypotheses into even more specific facets.
+
 > ##### Tip!
 > Strong literature reviews use sources that examine different themes/ideas in the research hypothesis. Weak literature reviews try to "match" or "prove" the research hypothesis.
 {: .block-tip }
