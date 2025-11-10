@@ -45,3 +45,13 @@ I'm unlikely to interact with questions posted after the Tuesday 11:59PM deadlin
 # Do I need to finish the module to post my Q&As?
 
 No! As explained in the syllabus, assignments, and alt-grading system pages, you can post your question before completing all the work in the module. You should begin the module before Tuesday &mdash; over the weekend if possible &mdash; and post a question based on what you *did* manage to complete by Tuesday.
+
+# Can you explain what it means to be accountable for my own learning and grades?
+
+This is an asynchronous course, which means the burden is even more on you to make sure you're succeeding in the class. There are two major ways to do this; every week, you should assess your understanding against the answers posted in #classroom, and after every after draft, you should check if you received a "Cr" (Credit) or "Nc" (No credit) score. While drafts are technically ungraded, too many Nc scores will impact your final course grade and make it difficult for you to succeed in writing the qualitative research project. 
+
+You are responsible for checking your draft scores on Classes after drafts have been submitted and scored and making sure that you're following and fulfilling the assignment guidelines. For instance, the qualitative research project is a different genre from a report, a historical overview of general facts, or a comparative literary/art/film analysis. It involves a kind of case study analysis of a contemporary problem that surfaces in the current, ongoing discourse of a specific discourse community &mdash; your field/discipline. If your project deviates from this, it's likely to receive an "Nc" (no credit) score. 
+
+Perfection is by no means necessary &mdash; or even what we're doing in this course &mdash; but to pass the course, you do have to satisfactorily demonstrate the learning objectives week-to-week and make a good-faith effort to address the assignment guidelines &mdash; and be ready to offer up your record of unsubmitted practice writing for the class, and be able to explain your writerly decisions in your qualitative research project draft and in the context of the qualitative research project guidelines. 
+
+Remember, this course is holistically graded, meaning that **consistent, regular participation and a project that meets all requirements by the end of the course is likely to result in full or partial remittance of "Nc" scores.**
