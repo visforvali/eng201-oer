@@ -68,16 +68,15 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 4. If your research questions seem unsubstantiated &mdash; e.g., something you think but may not (with a little research) actually be based in statistically significant fact &mdash; the next draft may not be accepted.
 5. **Generalization/speculation**. Your research question should avoid generalization and speculation. 
 6. For instance, the motives/reasons that people have for behaving a certain way will always be wildly varied; you'll have to conduct a significant number of interviews, and no amount of interviews will be enough to make the case for an argument.
-7. For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
-8. You should never be making claims about "people" anyway but about a subset of people that is as specific as it can be. That means considering several factors of identity: race, gender, sexuality, religion, nationality and geographic location, a specific type of company/corporation (banking, pharmaceutical, agricultural), a specific type of law, etc.
-9. **Avoid yes/no research questions**. Avoid research hypotheses that are inarguable, factual, or obvious. As discussed in class, research questions/hypotheses whose answers are simply “yes/no” or that can be answered with a fact that the reader could guess before reading your paper
-10. For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
-11. **Avoid research hypotheses that are opinions**. You can't argue a claim that is just your opinion, as it only comes from one person and more often than not will not apply widely.
-12. Avoid research questions/hypotheses whose answers can be guessed based on common sense. 
-13. For example, questions like "Is there a positive effect if impoverished families are given free education," "Will people rely on X law in cases where X law is advantageous to them," or "Do corporations behave ethically" don't merit academic inquiry &mdash; they'll just turn into a report.
-14. Don't worry about being too specific &mdash; this is rarely possible, and there are plenty of workarounds if few results come up when you search Google Scholar or Pace scholarly databases for your exact research questions.
-15. **Specificity**. A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
-16. It's *always* better to start with too little literature and expand your questions than to have to rewrite a general approach to have a more specific direction.
+7. You should never be making claims about "people" anyway but about a subset of people that is as specific as it can be. That means considering several factors of identity: race, gender, sexuality, religion, nationality and geographic location, a specific type of company/corporation (banking, pharmaceutical, agricultural), a specific type of law, etc.
+8. **Avoid yes/no research questions**. Avoid research hypotheses that are inarguable, factual, or obvious. As discussed in class, research questions/hypotheses whose answers are simply “yes/no” or that can be answered with a fact that the reader could guess before reading your paper
+9. For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
+10. **Avoid research hypotheses that are opinions**. You can't argue a claim that is just your opinion, as it only comes from one person and more often than not will not apply widely.
+11. Avoid research questions/hypotheses whose answers can be guessed based on common sense. 
+12. For example, questions like "Is there a positive effect if impoverished families are given free education," "Will people rely on X law in cases where X law is advantageous to them," or "Do corporations behave ethically" don't merit academic inquiry &mdash; they'll just turn into a report.
+13. Don't worry about being too specific &mdash; this is rarely possible, and there are plenty of workarounds if few results come up when you search Google Scholar or Pace scholarly databases for your exact research questions.
+14. **Specificity**. A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
+15. It's *always* better to start with too little literature and expand your questions than to have to rewrite a general approach to have a more specific direction.
 
 ### Assignment-Specific Comments 
 
