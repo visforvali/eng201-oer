@@ -55,12 +55,9 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 
 # Higher-Order Concerns
 
-## Unit 1
-
-How do you see the "attitude towards research" you're beginning to acquire intersecting with writing skills you've already picked up? With other skills or forms of thinking you already use in other arenas/spaces? As you begin to revise using all the feedback you've gathered this week, make sure your Research Introduction aligns with the following: 
+How do you see the "attitude towards research" you're beginning to acquire intersecting with writing skills you've already picked up? With other skills or forms of thinking you already use in other arenas/spaces? As you begin to revise using all the feedback you've gathered this week, make sure your Research Introduction and Literature Review align with the following: 
  
-
-### Qualitative Research Comments
+## Qualitative Research Comments
 
 1. **Research hypothesis**. Your research hypotheses should be exploratory and understanding-oriented
 2. **Simulation of disciplinary authority**. Existing scholarly literature and familiarity with contemporary discourse of the field should: 1. play a major role in the development of your research hypotheses, and 2. justify the need for exploring the research problem. 
@@ -85,7 +82,7 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 21. Articles about different places can still work together, but it's your job to show the reader how they can be reconciled despite their differences. This is not something that can be shortcut &mdash; trying to get around it with sentences like "These articles are about different places, but they still show high rates of burnout" indicates to the reader that you may not be carefully choosing or reading sources and may not be confident in the material. You'll also need to account for other variables (e.g., if all your articles are about burnout in healthcare professions during COVID, you can reasonably conclude that the pandemic amplified burnout...but you can't conclude anything about burnout outside of the pandemic). This may also mean accounting for the differences between that culture and American mainstream culture and explain why the research is still useful.
 22. Make sure you're using peer-reviewed scholarly literature articles published in scholarly journals or books published by university presses. Do not use articles you find on career advice sites, research boards that are NGOs, university websites, blog posts, Wikipedia or other encyclopedic articles, etc.
 
-### Assignment-Specific Comments 
+## Assignment-Specific Comments 
 
 1. **Regularly revisit the guidelines!** The number one thing that is assessed in your projects isn’t perfect argumentation, grammar, or formatting, but are you paying attention to what the project is asking for and trying to address it in a careful, considered way.
 2. For example, taking risks in critical thinking that don't work is fine; ignoring that the project investigates a narrow issue that impacts one subset of employees of a field or that the Methodology has a specific structure suggests you aren’t closely reading the project-specific directions or examples 
@@ -95,14 +92,14 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 6. Your literature review at this point should not look like your annotated bibliography. That is, your citations will not just be pasted in, they will be summarized and synthesized in paragraph form, and they will be divided into clear subsections (3 under each) and applied back to your research question. You should remove signals to yourself like "Source 1, 2, etc." and the word "Subsection" in the subsection headings. At this point, all 6 sources must be included. You should enact correct in-text citation, like using author's last names instead of full titles or "Article #."
 7. Make sure you're using two subheadings! So far you should have: Research Introduction; Methodology; Literature Review; Introduction; [Name of Subsection 1]; [Name of Subsection 2]; Review. In the Literature Review section, you don't need to say "Subsection #: Title"; just the title is fine. In Unit 3, you'll add excerpts and analysis of your interview data in the Results section; and a Conclusion for the whole paper. Formatting with sections is important for papers like this, so make sure you're following these directions. 
 
-### Research Process Comments
+## Research Process Comments
 
 1. **Turn your questions into hypotheses!** Your research hypothesis is your *answer* to your research question(s); this means that &mdash; if you didn't already, then definitely when you revise and expand for later drafts &mdash; you must provide a provisional answer to the question you pose, based on what you have seen of the literature (so far) and your own critical thinking. Once you have provisional answers that are narrow and that need sustained academic inquiry, you can delete the questions.
 2. **Search terms**. Being hyperspecific with your word choices when entering them into the search engine allows for more concentrated and precise results in the articles and information that search yields.
 3. Avoid judgment-based words in your literature review like "good" or "bad" and words like "positive" and "negative," which are difficult to substantiate. Saying "this article amazingly does XYZ" isn't convincing and can sound like you're forcing your opinion onto your reader &mdash; if the article really does XYZ well, then your summary and use of the ideas should demonstrate this.
 4. Use Purdue OWL's APA or MLA guide (depending on what you're using) to format your Works Cited. Make sure to avoid common pitfalls with in-text citations, like calling authors by their first name, or forgetting to include page numbers (depending on the citation style you're using).
 
-### WID Comments
+## WID Comments
 
 1. Use your preliminary research and the resources in the [Appendix](/eng201-oer/appendix.md){:target="_blank"}.
 2. Make sure to implement feedback as you revise and as you keep writing your way into future drafts.

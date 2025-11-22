@@ -98,22 +98,5 @@ This project is divided into 3 "units": Research Introduction; Secondary Researc
 
 I accept *all* writing assignments with no penalty or questions asked **within 1 week of the original deadline** (as long as they meet the rest of the assignment criteria). Please note that I can't promptly review late work, and I don't accept work more than 1 week late unless we made alternate arrangements in advance.
 
-# Redemption Points 🎟️
-
-> ##### Attention!
-> Using GenAI for anything in this course will automatically disqualify you from these opportunities.
-{: .block-danger }
-
-When you very proactive and conversational in our server's text channels beyond what is required in a given week, i.e. more than your two required weekly posts and other assigned activities (whether what you say is correct or not), I'll note it in my roster as a "redemption point." You can earn up to 3 redemption points a week and trade them in for different chances to "redeem" a grade:
-
-| Points	| Resubmit For |
-|:-------|:------|:-------|
-| 2 pts	| You can submit 1 missed/no-credit low-stakes writing work. |
-| 4 pts	| You can revise and resubmit 1 missed/no-credit high-stakes draft. |
-| 6 pts	| You can add 1% to your participation score. |
-| 14 pts | You can add 1/3 of a letter grade to your final course grade. |
-
-If you don't need to use your points or have unused points at the end of the semester, you can also DM me to add them to the mutual aid pool, to be redistributed to the whole class (TBD based on total mutual aid points).
-
 > ###### Save Yourself from Panicked Exaggeration!
 > Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B aren't the same!
