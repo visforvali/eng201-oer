@@ -100,3 +100,4 @@ I accept *all* writing assignments with no penalty or questions asked **within 1
 
 > ###### Save Yourself from Panicked Exaggeration!
 > Don't forget: an actually failing grade is an F; this isn't the same as a grade that isn't an A or B aren't the same!
+{:.block-danger}
