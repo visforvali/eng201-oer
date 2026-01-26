@@ -40,6 +40,8 @@ In your weekly Answer post, you'll attempt to answer:
 > Occasionally, you'll submit ungraded low-stakes writing that's building towards your essay drafts to your #team channel. These activities are described and listed in the weekly modules when they're due. Any project-related team activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
 {: .block-warning}
 
+If it helps to see examples, here's a [model Question post](assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](assets/eng201_model_a_post.png){:target="_blank"} by the same student.
+
 ## Process Reflections 🤔
 
 After you submit each draft, you'll post a reflection to your #team channel in which you describe:
