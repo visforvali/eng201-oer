@@ -14,7 +14,7 @@ cover: /eng201-oer/assets/cozy_room_clementine.jpg
 📧 **Email**: [vmanivannan@pace.edu](mailto:vmanivannan@pace.edu)     
 📲 **Discord server**: Invitation link posted to Classes\Content\Syllabus   
 🥸 **Server name**: fhqwgads   
-🕛 **Office hrs**: Tue 2-5, Wed 1-3 (DM for other) in 🔊Cafe   
+🕛 **Office hrs**: Tue 2-5, Wed 12-2 (DM for other) in 🔊Cafe   
 🌋 **My hill to die on**: Writing _is_ thinking, not something that happens afterwards   
 <br>
 <a href="https://zcal.co/drmani/coffee-chat" target="_blank" style="text-decoration:none;"><button class="button button-span">Book a coffee chat!</button></a>   
