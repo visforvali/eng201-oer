@@ -13,7 +13,7 @@ cover: /eng201-oer/assets/cozy_room_clementine.jpg
 ⚧️ **Pronouns**: she/her   
 📧 **Email**: [vmanivannan@pace.edu](mailto:vmanivannan@pace.edu)     
 📲 **Discord server**: Invitation link posted to Classes\Content\Syllabus   
-🥸 **Server name**: fhqwgads   
+🥸 **Server name**: Legendary Boon   
 🕛 **Office hrs**: Tue 2-5, Wed 12-2 (DM for other) in 🔊Cafe   
 🌋 **My hill to die on**: Writing _is_ thinking, not something that happens afterwards   
 <br>
