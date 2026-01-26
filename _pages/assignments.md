@@ -40,7 +40,9 @@ In your weekly Answer post, you'll attempt to answer:
 > Occasionally, you'll submit ungraded low-stakes writing that's building towards your essay drafts to your #team channel. These activities are described and listed in the weekly modules when they're due. Any project-related team activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
 {: .block-warning}
 
-If it helps to see examples, here's a [model Question post](assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](assets/eng201_model_a_post.png){:target="_blank"} by the same student.
+> ##### Tip!
+> If it helps to see examples, here's a [model Question post](assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](assets/eng201_model_a_post.png){:target="_blank"} by the same student.
+{: .block-tip }
 
 ## Process Reflections 🤔
 
@@ -54,6 +56,10 @@ After you submit each draft, you'll post a reflection to your #team channel in w
 This info will be useful when your team begins workshopping drafts with the general feedback sheet. 
 
 You can also note any material circumstances that got in the way of your drafting and what you might need to do (or what support you might need) to avoid similar hindrances next time. Don't just say that you learned a lot or restate the course material &mdash; think of this as your chance to tell me how you're implementing the course material into your writing practice! 
+
+> ##### Tip!
+> If it helps to see examples, here's a [model Process Reflection](assets/d2_process_reflection.pdf){:target="_blank"} by a former student.
+{: .block-tip }
 
 # High-Stakes Writing 🏗️
 
@@ -158,3 +164,7 @@ The Discussion section is at least 5 paragraphs and includes:
 The Conclusion section is intended to help the reader understand why your research should matter to them after they have finished reading the paper. A conclusion is not merely a summary of the main topics covered or a re-statement of your research problem, but a synthesis of key points and &mdash; if applicable &mdash; where you recommend new areas for future research. In short, try to explore the following:
 
 Finally, your Works Cited should be correctly formatted by your final draft.
+
+> ##### Tip!
+> If examples help, here's an [annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} by a former student, marked up with some of my reader notes.
+{: .block-tip }

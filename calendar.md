@@ -5,7 +5,7 @@ permalink: /
 cover: /eng201-oer/assets/cozy_room_clementine.jpg
 ---
 
-⭕ Spring 2026 ⭕ ASYNC
+⭕ CRN: 20110-20865 ⭕ Spring 2026 ⭕ ASYNC
 
 <img src="https://visforvali.github.io/eng201-oer/assets/gitbook/images/drmani.png" alt="Picrew profile of Vyshali, an Eelam Tamil woman" width="20%" style="float: left; margin: 15px; size: 12px; border-radius: 50%;">
 
