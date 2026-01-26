@@ -41,7 +41,7 @@ In your weekly Answer post, you'll attempt to answer:
 {: .block-warning}
 
 > ##### Tip!
-> If it helps to see examples, here's a [model Question post](.../assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](.../assets/eng201_model_a_post.png){:target="_blank"} by the same student.
+> If it helps to see examples, here's a [model Question post](/eng201-oer/assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](/eng201-oer/assets/eng201_model_a_post.png){:target="_blank"} by the same student.
 {: .block-tip }
 
 ## Process Reflections 🤔
@@ -58,7 +58,7 @@ This info will be useful when your team begins workshopping drafts with the gene
 You can also note any material circumstances that got in the way of your drafting and what you might need to do (or what support you might need) to avoid similar hindrances next time. Don't just say that you learned a lot or restate the course material &mdash; think of this as your chance to tell me how you're implementing the course material into your writing practice! 
 
 > ##### Tip!
-> If it helps to see examples, here's a [model Process Reflection](assets/d2_process_reflection.pdf){:target="_blank"} by a former student.
+> If it helps to see examples, here's a [model Process Reflection](/eng201-oer/assets/d2_process_reflection.pdf){:target="_blank"} by a former student.
 {: .block-tip }
 
 # High-Stakes Writing 🏗️
