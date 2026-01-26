@@ -41,7 +41,7 @@ In your weekly Answer post, you'll attempt to answer:
 {: .block-warning}
 
 > ##### Tip!
-> If it helps to see examples, here's a [model Question post](assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](assets/eng201_model_a_post.png){:target="_blank"} by the same student.
+> If it helps to see examples, here's a [model Question post](.../assets/eng201_model_q_post.png){:target="_blank"} and a [model Answer post](.../assets/eng201_model_a_post.png){:target="_blank"} by the same student.
 {: .block-tip }
 
 ## Process Reflections 🤔
