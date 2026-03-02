@@ -102,7 +102,7 @@ The Research Introduction asks you to consider how both your experiences and con
 
 - Concisely explain the motivating experiences and factors that caused you to enter your specific academic and professional field (*~1 paragraph*)
 - Concisely summarize what you've noticed about contemporary discourses in your field, according to your preliminary research (*~1 paragraph*)
-- Develop research questions and hypotheses based on a specific problem that keeps coming up in the discourse, explain your interest, and articulate the value of this research (*~1 paragraph*)
+- Develop research questions and hypotheses based on a specific problem that affects members of your discipline (e.g., experts, professionals, workers) that keeps coming up in the discourse, explain your interest, and articulate the value of this research. Your questions/hypotheses should consider how this problem manifests in the field, how it affects members of the discipline, and what its overarching ramifications are for your field in general. (*~1 paragraph*)
 
 > ##### Tip!
 > The research hypothesis is a non-obvious, unprovable conclusion you're drawing about an ongoing problem or tension that frequently appears in contemporary conversations in your field. 
