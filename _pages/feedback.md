@@ -21,7 +21,7 @@ Be sure to also review my responses to you and your classmates in #classroom dis
 # A Note on Scoring
 
 > ###### Important!
-> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "C" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit." **"N" scores are given if you don't submit a draft, if your submission doesn't demonstrate a connection to the assignment or to our course content thus far, or if you did not use feedback provided to the class during weekly Q&A.**
+> Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit." **"Nc" scores are given if you don't submit a draft, if your submission doesn't demonstrate a connection to the assignment or to our course content thus far, or if you did not use feedback provided to the class during weekly Q&A.**
 {: .block-warning }
 
 Drafts are ungraded to allow you to experiment with how you implement feedback without fear of penalty.
