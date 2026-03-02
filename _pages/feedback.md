@@ -55,19 +55,37 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
  
 ## Qualitative Research Comments
 
-*TBD!*
+1. **Research hypothesis**. Your research hypotheses should be exploratory and understanding-oriented
+2. **Simulation of disciplinary authority**. Existing scholarly literature and familiarity with contemporary discourse of the field should: 1. play a major role in the development of your research hypotheses, and 2. justify the need for exploring the research problem. 
+3. Make sure that your question does not only come from you but is informed by a couple of passes of the literature. Your question and hypothesis will likely evolve and change as we keep doing research, but your reader should get the sense that you are informed enough by scholars to not be omitting anything obvious.
+4. If your research questions seem unsubstantiated &mdash; e.g., something you think but may not (with a little research) actually be based in statistically significant fact &mdash; the next draft may not be accepted.
+5. **Generalization/speculation**. Your research question should avoid generalization and speculation. 
+6. For instance, the motives/reasons that people have for behaving a certain way will always be wildly varied; you'll have to conduct a significant number of interviews, and no amount of interviews will be enough to make the case for an argument.
+7. You should never be making claims about "people" anyway but about a subset of people that is as specific as it can be. That means considering several factors of identity: race, gender, sexuality, religion, nationality and geographic location, a specific type of company/corporation (banking, pharmaceutical, agricultural), a specific type of law, etc.
+8. **Avoid yes/no research questions**. Avoid research hypotheses that are inarguable, factual, or obvious. As discussed in class, research questions/hypotheses whose answers are simply “yes/no” or that can be answered with a fact that the reader could guess before reading your paper
+9. For example, "inarguable" claims might include "Why do people want to major in my field?" or "Why do people endure conflict?"
+10. **Avoid research hypotheses that are opinions**. You can't argue a claim that is just your opinion, as it only comes from one person and more often than not will not apply widely.
+11. Avoid research questions/hypotheses whose answers can be guessed based on common sense. 
+12. For example, questions like "Is there a positive effect if impoverished families are given free education," "Will people rely on X law in cases where X law is advantageous to them," or "Do corporations behave ethically" don't merit academic inquiry &mdash; they'll just turn into a report.
+13. Don't worry about being too specific &mdash; this is rarely possible, and there are plenty of workarounds if few results come up when you search Google Scholar or Pace scholarly databases for your exact research questions.
+14. **Specificity**. A research hypothesis is specific enough when you honestly can't make it any more specific &mdash; when every aspect of it has been chased to its narrowest point. If it's too specific later, you can begin to broaden your scope. It's so much easier to start narrow and go broad than start broad and go narrow.
 
 ## Assignment-Specific Comments 
 
-*TBD!*
+1. **Regularly revisit the guidelines!** The number one thing that is assessed in your projects isn’t perfect argumentation, grammar, or formatting, but are you paying attention to what the project is asking for and trying to address it in a careful, considered way.
+2. For example, taking risks in critical thinking that don't work is fine; ignoring that the project investigates a narrow issue that impacts one subset of employees of a field or that the Methodology has a specific structure suggests you aren’t closely reading the project-specific directions or examples 
+3. The specific organization of your papers is in the assignment guidelines (in the syllabus doc). 
 
 ## Research Process Comments
 
-*TBD!*
+1. **Turn your questions into hypotheses!** Your research hypothesis is your *answer* to your research question(s); this means that &mdash; if you didn't already, then definitely when you revise and expand for later drafts &mdash; you must provide a provisional answer to the question you pose, based on what you have seen of the literature (so far) and your own critical thinking. Once you have provisional answers that are narrow and that need sustained academic inquiry, you can delete the questions.
 
 ## WID Comments
 
-*TBD!*
+1. Use your preliminary research and the resources in the [Appendix](/eng201-oer/appendix.md){:target="_blank"}.
+2. Make sure to implement feedback as you revise and as you keep writing your way into future drafts.
+3. Avoid including information that is unnecessary or irrelevant to your claim.
+4. Avoid saying "certain types," "a kind of," "certain people," etc. Name the types; always answer the question "what kind?" where it can be asked. Refer to earlier feedback posts for guidance. You can use specificity to refine your subsection headings, your summaries of your sources, your analysis, etc.
 
 > ##### Annotated Model Paper 1
 Read [this annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} for insight into how to approach drafting and revising the different sections of the qualitative research project! *Note: Another annotated model paper will be posted by the third week of classes!*
