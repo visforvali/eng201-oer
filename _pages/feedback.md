@@ -78,6 +78,7 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 2. Your project must focus on a specific problem that affects members of your discipline (e.g., experts, professionals, workers) that keeps coming up in the discourse, explain your interest, and articulate the value of this research. Your questions/hypotheses should consider how this problem manifests in the field, how it affects members of the discipline, and what its overarching ramifications are for your field in general.
 3. For example, taking risks in critical thinking that don't work is fine; ignoring that the project investigates a narrow issue that impacts one subset of employees of a field or that the Methodology has a specific structure suggests you aren’t closely reading the project-specific directions or examples 
 4. The specific organization of your papers is in the assignment guidelines (in the syllabus doc). 
+5. Keep your focus as narrow as possible by limiting the number of directions contained in your research hypotheses; this will reduce the amount of writing you'll need to do to thoroughly address your hypotheses.
 
 ## Research Process Comments
 
