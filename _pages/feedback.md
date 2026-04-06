@@ -78,7 +78,6 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 21.  **Balance.** You should spend an equal amount of space on each of your secondary sources; if you spend more time on a source, make sure to signal to the reader that that source is more important than the other ones and indicate why.
 22. **Transitions.** Transition sentences (the first and last sentence of each paragraph) must reflect a clear and essential connection to the claim and to the paragraph that follows. For organizational purposes, your transition sentences should signal how your secondary sources connect back to your research hypothesis. Don't just list "this article, the next article, etc."
 
-
 ## Assignment-Specific Comments 
 
 1. **Regularly revisit the guidelines!** The number one thing that is assessed in your projects isn’t perfect argumentation, grammar, or formatting, but are you paying attention to what the project is asking for and trying to address it in a careful, considered way.
