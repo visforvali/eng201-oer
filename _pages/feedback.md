@@ -115,5 +115,5 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 7. Avoid using general language in your transition sentences and in paragraphs meant to introduce, conclude, or otherwise contextualize a section of the paper: e.g., "scholars say" or "studies show" undermine the close-reading and analytical work you've been doing in your secondary and primary research.
 
 > ##### Annotated Model Paper 1
-Read [this annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} for insight into how to approach drafting and revising the different sections of the qualitative research project! *Note: Another annotated model paper will be posted by the third week of classes!*
+Read [this annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} for insight into how to approach drafting and revising the different sections of the qualitative research project!
 {: .block-tip }
