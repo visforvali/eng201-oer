@@ -72,7 +72,7 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 {:.no_toc}
 
 > ##### Important!
-> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
+> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. **Drafts of high-stakes writing are scored on the basis of completion. Only final drafts receive "real" grades.** Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I wouldn't be able to accept a draft for credit for substantive reasons if it was submitted as though it were the final project, I'll mark it "Nc" for "No Credit." If you receive no marks or an "M," it means that your work was not counted, and you should reach out to me. And whatever score you receive on a draft, you'll need to substantively revise it.
 {: .block-warning }
 
 This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for this high-stakes essay are:
