@@ -83,7 +83,7 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 22. Make sure you're using peer-reviewed scholarly literature articles published in scholarly journals or books published by university presses. Do not use articles you find on career advice sites, research boards that are NGOs, university websites, blog posts, Wikipedia or other encyclopedic articles, etc.
 23. Dedicate equal space to all 3 themes in your Discussion section, and to all textual evidence and interpretations in each paragraph.
 24. Your transition sentences in your Discussion section should not only link the paragraph to preceding and subsequent paragraphs but also reflect a clear and essential connection to the interview themes, themes in your literature review, and your research hypotheses.
-25. The Conclusion section shouldn't be treated like a place where you restate what has come before but should indicate new ideas that connect to, expand on, and lead away from your original research hypotheses based on what you discovered in primary and secondary research. Think of the Conclusion as a chance to continue synthesizing your research and point to new avenues of inquiry beyond the scope of your paper. 
+25. **Concluding the paper.** The Conclusion section shouldn't be treated like a place where you restate what has come before but should indicate new ideas that connect to, expand on, and lead away from your original research hypotheses based on what you discovered in primary and secondary research. Think of the Conclusion as a chance to continue synthesizing your research and point to new avenues of inquiry beyond the scope of your paper. 
 
 ## Assignment-Specific Comments 
 
@@ -101,6 +101,7 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 12. Interviews should be directly quoted for the purpose of analysis; these quotes should contain essential language that you plan to interpret for readers. You don't need to include entire responses or even whole sentences if you're only planning to engage with a specific phrase. Make sure to embed the quotations into your own sentences.
 13. The paragraphs in the Discussion section should be organized by importance of idea. Quotes and analysis in each paragraph should be similarly organized, based on the significance of textual data to the theme being discussed.
 14. Interviews should be concisely summarized in approximately 2 sentences that explain the gist of the interview, including major themes and connotations. Each summary should sound distinct, i.e. the 3 interviews shouldn't blur together, even if there are similarities between them.
+15. The conclusion of the Discussion section should be structured like the conclusion of the Literature Review, where you synthesize what you've presented to readers/your conclusions about each interview.
 
 ## Research Process Comments
 
