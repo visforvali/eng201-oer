@@ -102,6 +102,7 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 14. The 3 themes identified in the Discussion section should span all 3 interviews. Each paragraph should illustrate one of the 3 key themes you identified through your coding process. 
 15. The paragraphs in the Discussion section should be organized by importance of idea. Quotes and analysis in each paragraph should be similarly organized, based on the significance of textual data to the theme being discussed.
 16. Interviews should be concisely summarized in approximately 2 sentences that explain the gist of the interview, including major themes and connotations. Each summary should sound distinct, i.e. the 3 interviews shouldn't blur together, even if there are similarities between them.
+17. The conclusion of the Discussion section should be structured like the conclusion of the Literature Review, where you synthesize what you've presented to readers/your conclusions about each interview.
 
 ## Research Process Comments
 
