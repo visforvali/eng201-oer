@@ -10,9 +10,8 @@ This course website for ENG 201: Writing in the Disciplines at Pace University, 
 
 The Jekyll Gitbook theme includes features like:
 
-- instant full-text search,
-- a collapsible sidebar navigation menu, and
-- back-to-top and next/previous page functions at the bottom of each page.
+- instant full-text search and
+- a collapsible sidebar navigation menu
 
 ## ENG 201 Course Website
 
