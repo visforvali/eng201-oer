@@ -3,8 +3,6 @@
     <head>
 
         {%- include head.html -%}
-
-        {% assign reversed_posts = site.posts | reverse %}
         
     </head>
     <body>
@@ -26,11 +24,7 @@
                 </div>
 
                 <div class="body-inner">
-                    {%- include body.html -%}
-
-                    <a href="{{site.baseurl}}/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
+                    {%- include body.html -%}                    
                     
                 </div>
             </div>
