@@ -31,23 +31,23 @@ Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disc
 {: .block-warning }
 
 > ##### Weekly Workflow and Deadlines
-> Unless otherwise noted, **every week, you'll post one question to #classroom by Tue 11:59PM and reply to a classmate's _unanswered_ question with an attempted answer of your own by Fri 11:59PM** to qualify as actively attending and participating for that week. For maximum benefit for your qualitative research project, you should tailor your questions to the material in the weekly module. For specific instructions, check out [Assignments](/eng201-oer/pages/assignments){:target="_blank"}. 
+> Unless otherwise noted, **every week, you'll post one question to #classroom by Tue 11:59PM and reply to a classmate's _unanswered_ question with an attempted answer of your own by Fri 11:59PM** to qualify as actively attending and participating for that week. For maximum benefit for your qualitative research project, you should tailor your questions to the material in the weekly module. For specific instructions for low-stakes Q&A posts, check out [Assignments](/eng201-oer/pages/assignments){:target="_blank"}. 
 {: .block-tip }
 
 # Course Calendar
 
-The calendar of readings and learning modules to be completed asynchronously each week is posted below. If I change the schedule to benefit the class, I'll post an announcement to Discord #classroom and to the [Announcements](/eng201-oer/jekyll/2025-07-31-w0.html){:target="_blank"} page at the top of the sidebar.
+The calendar of weekly modules &mdash; each one containing lesson notes, linked readings, practice exercises, writing assignments, etc. designed to help you write the qualitative research project for this course &mdash; is posted below. I rarely make significant changes to the calendar. Any changes I do make will be announced on Discord #🙋|classroom and on [Classes/Tools/Announcements](https://classes.pace.edu). 
 
 > ##### Suggested Sat-Fri Workflow
-> Because this is an asynchronous section, the calendar below includes weekends and runs from Sat-Fri &mdash; but this is just a suggestion. You can complete the work whenever you're able during the week as your schedule permits. Regardless of when you find the time, you're expected to pace yourself, manage your time, and stay on top of deadlines, and you must complete all the work each week to remain in good standing in the course.
+> Because this is an asynchronous section, the calendar below includes weekends and runs from Sun-Sat &mdash; but this is just a suggestion. You can complete the work whenever you're able during the week as your schedule permits. **Regardless of when you find the time, you're expected to pace yourself, manage your time, and stay on top of deadlines, and you must complete all the work each week to remain in good standing in the course.**
 {: .block-danger }
 <br>
 
-| Week Of <img width=150/> | Course Expectations <img width=500/> | Due by 11:59PM On<img width=200/> |
+| Week Of <img width=150/> | Weekly Work <img width=500/> | Due by 11:59PM On<img width=200/> |
 |:-------|:------|:-------|
-| 8/31 - 9/5 | **Settling In** <br/> ⚙️ Join Discord (link on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}) and get setup with the [Discord Tutorial](/eng201-oer/others/discord){:target="_blank"} <br/> 🔖 Complete [Module 1](/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} <br/> 🔍 Get used to where things are on Discord, this website, Classes | **Fri**: Intro in #roll-call |
-| 9/6 - 9/12 | **Writing in the Disciplines** <br/> 🔖 Complete [Module 2](/eng201-oer/jekyll/2025-08-02-w2.html){:target="_blank"} <br/> ⏰ Submit late work still eligible for grace period | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom | 
-| 9/13 - 9/19 | **Grounded Theory for (All) Research** <br/> 🔖 Complete [Module 3](/eng201-oer/jekyll/2025-08-03-w3.html){:target="_blank"} | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom |
+| 8/31 - 9/5 | **Settling In** <br/> ⚙️ Join Discord using the invite link on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"} and get started with the [Discord Quickstart Guide](/eng201-oer/others/discord){:target="_blank"} <br/> 🔖 Complete [Module 1](/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} <br/> 🔍 Get used to where things are on Discord, this website, Classes | **Fri**: Customize Discord profile, select roles in #🆔get-roles, post intro in #🪪roll-call <br/> Other required low-stakes writing for Module 1 |
+| 9/6 - 9/12 | **Writing in the Disciplines** <br/> 🔖 Complete [Module 2](/eng201-oer/jekyll/2025-08-02-w2.html){:target="_blank"} <br/> ⏰ Submit late work still eligible for grace period | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom <br/> Other required low-stakes writing for Module 2 | 
+| 9/13 - 9/19 | **Grounded Theory for (All) Research** <br/> 🔖 Complete [Module 3](/eng201-oer/jekyll/2025-08-03-w3.html){:target="_blank"} | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom <br/> Other required low-stakes writing for Module 3 |
 | 9/20 - 9/26 |  **The Discipline Narrative** <br/> 🔖 Complete [Module 4](/eng201-oer/jekyll/2025-08-04-w4.html){:target="_blank"} <br/> 🖊️ Work on Draft 1 | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom <br/> **Sat**: 3 RQs in #team |
 | 9/27 - 10/3 |  **Exigence and Hypotheses** <br/> 🔖 Complete [Module 5](/eng201-oer/jekyll/2025-08-05-w5.html){:target="_blank"} <br/> ⏰ Submit late work still eligible for grace period | **Tue**: 1 Ques in #classroom <br/> **Fri**: 1 Answer in #classroom <br/> **Sat**: Draft 1 on Classes |
 | 10/4 - 10/10 | **Habituating Feedback** <br/> 🔖 Complete [Module 6](/eng201-oer/jekyll/2025-08-06-w6.html){:target="_blank"} <br/> 💪 Conduct workshop in #team <br/> 🖊️ Work on revision <br/> ⏰ Submit late work still eligible for grace period | **Tue**: Process Reflection in #team <br/> **Fri**: General Feedback Survey for each teammate in #team |
