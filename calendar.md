@@ -12,26 +12,26 @@ cover: /eng201-oer/assets/cozy_room_clementine.jpg
 🪪 **Instructor**: [Dr. Vyshali Manivannan (Dr. Mani)](https://www.pace.edu/profile/vyshali-manivannan){:target="_blank"}   
 ⚧️ **Pronouns**: she/her   
 📧 **Email**: [vmanivannan@pace.edu](mailto:vmanivannan@pace.edu)     
-📲 **Discord server**: Invitation link posted to Classes\Content\Syllabus   
-🥸 **Server name**: Legendary Boon   
-🕛 **Office hrs**: Tue 2-5, Wed 12-2 (DM for other) in 🔊Cafe   
+📲 **Discord server**: Invitation link posted to [Classes\Content\Syllabus](https://classes.pace.edu/){:target="_blank"}      
+🥸 **Server alias**: Flame Thief   
+🕛 **Coffee chats**: Tue 2-5, Wed 1-3 (DM for other) in 🔊☕|Cafe   
 🌋 **My hill to die on**: Writing _is_ thinking, not something that happens afterwards   
 <br>
-<a href="https://zcal.co/drmani/coffee-chat" target="_blank" style="text-decoration:none;"><button class="button button-span">Book a coffee chat!</button></a>   
+<a href="https://zcal.co/drmani/coffee-chat?duration=15" target="_blank" style="text-decoration:none;"><button class="button button-span">Book a coffee chat!</button></a>   
 &nbsp;   
 
 Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disciplines this semester. I'm an Eelam Tamil American chronically ill writer, scholar, artist, and designer. I've taught writing and rhetoric, media studies, disability studies, and cultural studies for ~20 years. I have a PhD in Communication, Information, and Media from Rutgers and an MFA in Creative Writing from Columbia. I'm interested in digital multimodal composition, disability justice movements (mask up 😷 for your community!), and body mods. I also have a Siberian cat named Athena ([obligatory cat tax](/eng201-oer/assets/gitbook/images/cat_tax.jpg){:target="_blank"}).
 <br>
 > ##### Attention!
-> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐10, 🕐15, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) chat to talk about any aspect of your classwork, college, life, etc. **If you're in an async section, please be aware that I can't require sync one-on-one meetings and therefore have limited availability outside of these hours.** You can DM me to arrange an alternate time, but you must contact me **at least 1 week in advance**. I'm almost never able to accommodate last-minute requests.
+> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a <a href="https://zcal.co/drmani/coffee-chat" target="_blank">🕐10</a>, <a href="https://zcal.co/drmani/coffee-chat?duration=15" target="_blank">🕐15</a>, or <a href="https://zcal.co/drmani/coffee-chat?duration=20" target="_blank">🕧20</a> min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) chat to talk about any aspect of your classwork, college, life, etc. **Please be aware that I can't require sync chats for async sections; therefore, I have limited availability outside of these hours.** You can DM me to arrange an alternate time, but you must contact me **at least 1 week in advance**. I am unable to accommodate last-minute requests.
 {: .block-danger }
 
 > ##### Important!
-> I respond to async messages in Discord's text channels and DMs and Pace emails within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I might reply sooner, but don't count on it). For a quicker response to questions or project help, ask in #classroom or #team on Discord. I deprioritize questions about course material/logistics that are explained in the course syllabus and/or this website, or have already been asked and answered on Discord and added to the FAQs.
+> I usually respond to weekly Q&A posts on Wed and Sat; **for private Discord DMs, "@"s in #team channels, and Pace emails sent during the week, I usually reply within 72 hrs during the week. Anything I get over the weekend, I'll respond to on Mon.** Unless you have a question about specific dates or wording, I deprioritize questions about course logistics or requirements that are already explained in the syllabus or other course materials on this website, or questions that have already been asked and answered on Discord and added to the FAQs. **For pedagogical reasons, I will always first ask you to tell me what you already understand and what you've tried to address your confusion, so I can better help you.**
 {: .block-warning }
 
 > ##### Weekly Workflow and Deadlines
-> Unless otherwise noted, **every week, you'll post at least one discussion question to #classroom by Tue 11:59PM and reply to at least one classmate's question with an attempted answer by Fri 11:59PM** to qualify as present and actively participating for the week. (For specific instructions, check out [Assignments](/eng201-oer/pages/assignments){:target="_blank"}.) You don't need to have completed the module by the time you post.
+> Unless otherwise noted, **every week, you'll post one question to #classroom by Tue 11:59PM and reply to a classmate's _unanswered_ question with an attempted answer of your own by Fri 11:59PM** to qualify as actively attending and participating for that week. For maximum benefit for your qualitative research project, you should tailor your questions to the material in the weekly module. For specific instructions, check out [Assignments](/eng201-oer/pages/assignments){:target="_blank"}. 
 {: .block-tip }
 
 # Course Calendar
