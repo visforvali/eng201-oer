@@ -19,35 +19,36 @@ Nothing in this class needs to be perfect or polished, but this doesn't mean any
 For you to earn at least a B+ in this class, you must:
 
 - Complete all required activities and assignments by the deadline, within the 1-week grace period for late work (where permitted) after the original deadline, or by an alternate deadline that was arranged in advance with me
-- Attempt to write nearly all of the components of required assignments in each draft.
+- Write nearly all of the components of required assignments in each draft
 - Regularly incorporate feedback and what you learn in class in your assignments
 - Show that you're paying attention to the instructions, the readings, and feedback by thoughtfully making writerly decisions (choice of readings, interpretive approach, craft and style, etc.) in your assignments
-- Regularly participate in voice and text chat every week
+- Regularly participate in text chat every week
 - Proactively try to figure things out on your own before chatting with me, scheduling coffee chats, and by bringing relevant notes, annotated readings, and writing materials to these meetings so we can work on them together
-- Talk/post about what you've learned when you participate each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts (and try to participate even when you aren't sure you're right!)
+- Talk/post about what you've learned in your Q&A posts and other low-stakes writing each week: from the readings, from accumulating discussions and activities, from feedback, and/or from your peers' posts
+- Participate even when you aren't sure you're right!
 - Be open to critique and accountable for the work you did (or didn't do)
 
-You can always check in with me if you're unsure of how you’re doing!
+You can always check in with me if you're unsure of how you're doing!
 
 If you do better on an ungraded draft than you do on a final submission, I'll score that one instead. This lowers the stakes of drafting even further, allows you to take risks and "fail up" without penalty, and more closely resembles what out-of-classroom drafting is really like: often "one step forward, two steps back," recursive, nonlinear, never quite finished.
 
 # Participation 🙋
 
 > ##### Attention!
-> Participation grades are in compliance with university policy for async courses. You're required to participate in discussions and submit work in #classroom and/or other text channels each week. In async classes, you can participate whenever you like during each week, as long as you post by the deadline. 
+> Participation grades are in compliance with university policy for async courses. You're required to participate in discussions and submit work in #classroom and/or other text channels each week. **In async classes, you can participate whenever you like during each week, as long as you post by the deadline.**
 {: .block-danger }
 
 You're expected to regularly, substantively participate in #classroom each week, through thoughtful, informal contributions that reflect what you're learning; organically reacting/replying to classmates; and doing classwork in a relatively timely fashion. 
 
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
-- Posting *at least* the 2 #classroom posts on Discord required every week
-- Posting in #team to collaboratively learn with your teammates
+- Posting all required Discord posts to #🙋classroom each week
+- Participating in peer review in #team to collaboratively learn with your teammates
 - Reading and writing with classmates in spaces/ways I can see/quantify
 - Organically replying and reacting to classmates' posts (no boring "discussion board"-style replies, please!)
-- Asking questions in #classroom as soon as you're confused
+- Asking questions in #🙋classroom as soon as you're confused
 
-If there's another form that works for you, or if you're anxious about whether you're substantively participating enough, reach out to me so we can talk about it! After 5 weeks of low participation, we'll need to synchronously meet to discuss whether it makes sense for you to stay in the class or withdraw.
+If you're anxious about whether you're substantively participating enough, reach out to me so we can talk about it. **After 5 weeks of low participation, we'll need to synchronously meet to discuss whether it makes sense for you to stay in the class or withdraw.**
 
 # Assignments 📚
 
@@ -64,18 +65,21 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 > Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 {: .block-danger }
 
-Low-stakes writing work, i.e. weekly #classroom posts or #team activities on Discord, asks you to briefly organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts. Weekly #classroom posts, i.e. #classroom discussion contributions to help you understand the material, should be posted to #classroom by 11:59PM on Tuesdays (Questioning Posts) and Fridays (Answering Posts). Project-related activities should be posted in your #team channels by the date/time indicated on the [Calendar](../calendar){:target="_blank"}. 
+Low-stakes writing work, i.e. weekly #🙋classroom posts or #team activities on Discord, asks you to organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts. Low-stakes writing assignments are designed to be repurposed in your qualitative research project, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them).
 
-Nothing in this class is busy work. Low-stakes work can be &mdash; is designed to be, even! &mdash; repurposed in your high-stakes projects, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them).
+Weekly question posts should be posted to #🙋classroom by 11:59PM on Tuesdays; weekly answer posts should be posted to #🙋classroom by 11:59PM on Fridays. 
+
+Most low-stakes writing deadlines are listed on the [Calendar](../calendar){:target="_blank"}. You should always double-check each weekly module for any additional writing due that week.
+
 
 ## High-Stakes (Graded) Writing 🚀
 {:.no_toc}
 
 > ##### Important!
-> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to Classes\Assignments and will be scored in Classes\Gradebook. **Drafts of high-stakes writing are scored on the basis of completion. Only final drafts receive "real" grades.** Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I wouldn't be able to accept a draft for credit for substantive reasons if it was submitted as though it were the final project, I'll mark it "Nc" for "No Credit." If you receive no marks or an "M," it means that your work was not counted, and you should reach out to me. And whatever score you receive on a draft, you'll need to substantively revise it.
+> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to [Classes\Assignments](https://classes.pace.edu){:target="_blank"} and will be scored in [Classes\Grades](https://classes.pace.edu){:target="_blank"}. **Drafts of high-stakes writing are scored on the basis of completion. To show I've received and read your draft, I'll enter an "R" for "Reviewed" in the Classes gradebook. Only final drafts receive "real" grades.** If you receive a If you receive an "M," it means that I could not accept your draft for credit for substantive reasons, and you should reach out to me. **You will need to substantively revise each draft no matter what.**
 {: .block-warning }
 
-This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for this high-stakes essay are:
+This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for the qualitative research project are:
 
 - Your writing decisions (form, content, genre) must reflect principles of writing in the disciplines
 - Your drafts must at least begin to address the criteria for that specific unit of drafting
@@ -84,7 +88,11 @@ This class revolves around one multipart high-stakes writing assignment &mdash; 
 
 After submitting your draft to Classes, and before you receive feedback and engage in #team workshop, you must post a brief process reflection about your goals and choices for that draft to your #team channel &mdash; including the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation.
 
-This project is divided into 3 "units": Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Unit 1); Literature Review (Unit 2); Results (Unit 3); Conclusion (Unit 3). You'll submit two drafts of each unit: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. Your final draft will contain these revised, updated versions.
+This project is divided into 3 "units": Research Introduction; Secondary Research; and Primary Research and Synthesis. Each targets specific parts of qualitative research: Introduction & Methodology (Unit 1); Literature Review (Unit 2); Results (Unit 3); Conclusion (Unit 3). 
+
+You'll submit two drafts of each unit: Draft 1, an ungraded process draft for describing and organizing ideas and evidence; and Draft 2, a revision. 
+
+Your final draft will contain these revised, updated versions.
 
 # Deadlines & Grace Period 😇
 
