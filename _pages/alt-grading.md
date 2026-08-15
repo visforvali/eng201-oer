@@ -69,7 +69,7 @@ Low-stakes writing work, i.e. weekly #🙋classroom posts or #team activities on
 
 Weekly question posts should be posted to #🙋classroom by 11:59PM on Tuesdays; weekly answer posts should be posted to #🙋classroom by 11:59PM on Fridays. 
 
-Most low-stakes writing deadlines are listed on the [Calendar](../calendar){:target="_blank"}. You should always double-check each weekly module for any additional writing due that week.
+Most low-stakes writing deadlines are listed on the [Calendar](https://visforvali.github.io/eng201-oer/){:target="_blank"}. You should always double-check each weekly module for any additional writing due that week.
 
 
 ## High-Stakes (Graded) Writing 🚀
