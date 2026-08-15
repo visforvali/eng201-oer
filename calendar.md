@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ENG 201 - Writing in the Disciplines 👋🏾
+title: ENG 201 Writing in the Disciplines 📅
 permalink: /
 cover: /eng201-oer/assets/cozy_room_clementine.jpg
 ---
