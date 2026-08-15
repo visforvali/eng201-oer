@@ -47,7 +47,7 @@ As this is an online asynchronous course, you'll guide yourself through weekly m
 > We will *only* use Classes for: (1) enrollment verification, (2) posting your qualitative research project drafts, (3) sharing grades with you.
 {: .block-warning }
 
-The invitation link to our Discord server is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](../discord){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+The invitation link to our Discord server is on [Classes\Content\Syllabus](https://classes.pace.edu){:target="_blank"}. If you're new to Discord, check out our [Discord Tutorial](https://visforvali.github.io/eng201-oer/others/discord/){:target="_blank"} or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 This website serves as the OER textbook for our course.
 
@@ -115,7 +115,7 @@ If you choose to risk using an LLM in this class, you need to effectively fact-c
 
 Remember: GenAI/LLM use might be trendy but isn't inevitable, and you have the right to refuse to use it. You do harm to yourself and to the aims of social justice by using it. If you've been using it, use this course to experiment with getting back to brain-only writing. 
 
-You can read more about my [Writing without AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"} policy and philosophy here. 
+Here's my full [Writing without AI](https://vyshalimanivannan.com/writing-without-ai/){:target="_blank"} policy and philosophy for instructors and students if you're interested in learning more!
 
 ## Pace: Writing Support & Learning Commons 🧑‍🏫
 
