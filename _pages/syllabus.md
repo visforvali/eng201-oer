@@ -1,5 +1,5 @@
 ---
-title: 📖 ENG 201 Syllabus
+title: 📋 ENG 201 Syllabus
 author: Dr. Mani
 date: 2025-08-01
 category: Jekyll
