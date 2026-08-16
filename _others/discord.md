@@ -13,7 +13,7 @@ layout: post
 # Getting Started
 
 > ##### Important!
-> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊 Cafe on the left 1x to join voice-only and 2x to join voice-and-video (in async sections, if/as needed).
+> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊 Cafe on the left 1x to join coffee chats with voice-only and 2x to join voice-and-video (in async sections, if/as needed).
 {: .block-warning }
 
 First, you'll need to install the Discord app and create an account. 
@@ -23,27 +23,27 @@ First, you'll need to install the Discord app and create an account.
 
 _This username is not the same as your display name, the prominent name shown when you interact in a server or in direct messages (DMs), which can be changed later._
 
-Once you've completed the registration and verification process, use the Discord server invitation link on Classes to add yourself to the ENG201 Classroom server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
+Once you've completed the registration and verification process, use the Discord server invitation link on [Classes](classes.pace.edu){:target="_blank"} to add yourself to the ENG201 Classroom server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
 
 ## Code of Conduct
 
 Our priority is the privacy, security, and safety of the server. By joining, you are agreeing to these rules:
 
-- Be civil, respectful, and considerate towards other members. No hate speech or discriminatory language or behavior of any kind will be tolerated.
-- Server invitations are for this class only and are set to expire for the safety of our community. Never share an invite publicly.
-- Keep everything said here confidential. Don't screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported.
-- If you're made uncomfortable, bring your concerns to the facilitators and moderators.
-- Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs.
-- Don't spam channels or members' direct messages.
-- Don't post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing).
-- Harassment, trolling, and malicious shitposting will not be tolerated.
-- Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"} and [Tone Indicators](https://toneindicators.carrd.co/#masterlist){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning).
-- Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments.
-- Respond to me if I DM you with a concern. If you don't respond for a few days or if a safety concern doesn't get addressed, I might notify your advisor to make sure you're okay, or issue a warning or timeout until the situation can be resolved. 
+- Be civil, respectful, and considerate towards other members. No hate speech or discriminatory language or behavior of any kind will be tolerated
+- Server invitations are for this class only and are set to expire for the safety of our community. Never share an invite publicly
+- Keep everything said here confidential. Don't screenshot or share content without express permission. Anyone who does this will be banned and the content shared will be reported
+- If you're made uncomfortable, bring your concerns to the facilitators and moderators
+- Read member profiles before replying or DMing them, to make sure you're using their preferred pronouns and accommodating any listed access needs
+- Don't spam channels or members' direct messages
+- Don't post age-restricted or obscene content (this includes text, images, or links featuring nudity, sex, hard violence, or anything else that's graphically disturbing)
+- Harassment, trolling, and malicious shitposting will not be tolerated
+- Communicate accessibly! Create threads to organize conversations as needed; avoid terms rooted in ableism and discrimination (refer to [Ableist Terms and Words to Avoid](https://truthout.org/app/uploads/2018/03/ableist-words-and-terms-to-avoid.html){:target="_blank"} for guidance); use alt-text and tone indicators (for guidance, check out [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"} and [Tone Indicators](https://toneindicators.carrd.co/#masterlist){:target="_blank"}); and enable Live Captioning on your OS/browser for captions in voice channels (Discord doesn't yet have built-in captioning)
+- Call in people when they've crossed a line or are talking over someone (or @ or DM me) so we can have dialogue around uncomfortable moments
+- Respond to me if I DM you with a concern. If you don't respond for a few days or if a safety concern doesn't get addressed, I might notify your advisor to make sure you're okay, or issue a warning or timeout until the situation can be resolved
 
 ## Customizing Your Profile
 
-Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) are visible at the bottom left of the screen. Open the Edit Profile screen to change your display name and PFP for this server. You can do this by:
+Your profile picture (pfp), username, and user settings (cogwheel icon ⚙️) are visible at the bottom left of the screen. Open the Edit Profile screen to change your display name and pfp for this server. You can do this by:
 
 - Clicking your username in the lower right, then Edit Profile in the opened pop-up, or 
 - Clicking the ⚙️ icon next to your username to open the User Settings screen, then Profiles in the opened menu.
@@ -143,25 +143,25 @@ The left panel contains category headings and channels. Clicking a channel in th
 ## Welcome & Server Info
 {:.no_toc}
 
-- **#welcome**: Welcome to the ENG 201 Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
-- **#get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
-- **#its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
+- **#👋welcome**: Welcome to the ENG 201 Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
+- **#🆔get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
+- **#🗳️its-help**: This channel is for all your tech support issues regarding Discord, this website, and/or Classes 💛 
 
 ## Community Making
 {:.no_toc}
 
-- **#roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
-- **#lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
+- **#🪪roll-call**: Introduce yourself using the pseudonym that will be your alias in this course! Tell us: What's your alias? Why did you choose it? And what's one fact or quote that lives rent-free in your brain? (_Note_: If you don't choose a pseudonym by the end of Week 1, I'll DM you one that I've randomly generated and will change your server nickname accordingly.) 
+- **#🍕lounge**: 💜 "Anyone Up" Hangouts 💜 "Force Parties"/Work Accountabili-Buddies 💜 Reading, Music, TV/Film, Game Recs 💜 Etc. 💜
 - **🔊 Cafe**: Voice channel for for coffee chats with me, voice/video work with classmates, and/or socializing.
 
 ## Class Is in Session
 {:.no_toc}
 
-- **#starboard**: Posts deemed important by the community appear in this channel. If you encounter (or write) an important post in another channel, react to it with a ⭐ to cross-post it here.
-- **#classroom**: A channel for class activities and low-stakes writing 💛
-- **#team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **#team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
-- **#team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#🙋classroom**: A channel for class activities and low-stakes writing 💛
+- **#🐲team1🔒**: Team 1's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#🦄team2🔒**: Team 2's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#🐦‍🔥team3🔒**: Team 3's private stomping ground for group activities in and out of class and for helping each other out during the semester!
+- **#🦑team4🔒**: Team 4's private stomping ground for group activities in and out of class and for helping each other out during the semester!
 
 # Using Discord
 
