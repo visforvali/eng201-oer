@@ -58,7 +58,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 > All [assignment guidelines](../assignments){:target="_blank"} are provided in advance so you can pace yourself as needed.
 {: .block-tip }
 
-## Low-Stakes (Ungraded) Discord Posts
+## Low-Stakes Discord Posts #️⃣
 {:.no_toc}
 
 > ##### Attention!
