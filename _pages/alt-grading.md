@@ -62,7 +62,7 @@ You'll produce both high-stakes (major, graded) and low-stakes (minor, ungraded)
 {:.no_toc}
 
 > ##### Attention!
-> Low-stakes writing is scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
+> Low-stakes writing assignments are scored on the basis of completion. Submissions that actively engage with the material and are unafraid of "getting things wrong" on the way to figuring things out are accepted for full credit. If I can't accept a submission for credit for substantive reasons, I'll DM you privately to let you know. **In short: Unless you hear otherwise from me, you know your submission received full credit.**
 {: .block-danger }
 
 Low-stakes writing work, i.e. weekly #🙋classroom posts or #team activities on Discord, asks you to organize your thoughts about the course material and your research hypothesis and practice using the writing conventions of your discipline to articulate your thoughts. Low-stakes writing assignments are designed to be repurposed in your qualitative research project, but you can't reuse the same pieces of writing across multiple assignments (unless the assignment asks you to scaffold or cumulatively build on them).
@@ -76,7 +76,7 @@ Most low-stakes writing deadlines are listed on the [Calendar](https://visforval
 {:.no_toc}
 
 > ##### Important!
-> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to [Classes\Assignments](https://classes.pace.edu){:target="_blank"} and will be scored in [Classes\Grades](https://classes.pace.edu){:target="_blank"}. **Drafts of high-stakes writing are scored on the basis of completion. To show I've received and read your draft, I'll enter an "R" for "Reviewed" in the Classes gradebook. Only final drafts receive "real" grades.** If you receive a If you receive an "N" ("No Credit"), it means that I could not accept your draft for credit for substantive reasons, and you should reach out to me. **You will need to substantively revise each draft no matter what.**
+> High-stakes writing, i.e. drafts of the qualitative research project, should be submitted to [Classes\Assignments](https://classes.pace.edu){:target="_blank"} and will be scored in [Classes\Grades](https://classes.pace.edu){:target="_blank"}. **Drafts of high-stakes writing assignments are scored on the basis of completion. To show I've received and read your draft, I'll enter an "R" for "Reviewed" in the Classes gradebook. Only final drafts receive "real" grades.** If you receive an "N" ("No Credit"), it means that I could not accept your draft for credit for substantive reasons, and you should reach out to me. **You will need to substantively revise each draft no matter what.**
 {: .block-warning }
 
 This class revolves around one multipart high-stakes writing assignment &mdash; the qualitative research project. The assessment criteria for the qualitative research project are:
