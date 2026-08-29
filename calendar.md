@@ -38,7 +38,7 @@ Hello! I'm Dr. Mani, and I'll be your professor for ENG 201: Writing in the Disc
 
 The calendar of weekly modules &mdash; each one containing lesson notes, linked readings, practice exercises, writing assignments, etc. designed to help you write the qualitative research project for this course &mdash; is posted below. I rarely make significant changes to the calendar. Any changes I do make will be announced on Discord #🙋classroom and on [Classes/Tools/Announcements](https://classes.pace.edu). 
 
-> ##### Suggested Sat-Fri Workflow
+> ##### Suggested Sun-Sat Workflow
 > Because this is an asynchronous section, the calendar below includes weekends and runs from Sun-Sat &mdash; but this is just a suggestion. You can complete the work whenever you're able during the week as your schedule permits. **Regardless of when you find the time, you're expected to pace yourself, manage your time, and stay on top of deadlines, and you must complete all the work each week to remain in good standing in the course.**
 {: .block-danger }
 <br>
