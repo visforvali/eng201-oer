@@ -8,6 +8,11 @@ Interviews aren't designed to collect participants' unstructured opinions but to
 
 Interviews permit you to gain insight into individuals and their communities by directly communicating with members of a group you're studying. Interviews need to be designed ethically and in a manner that makes them somewhat replicable, like using the same set of core questions for all your interviewees.
 
+
+> ######  🛑 Revise: Your Interview Questions!
+> Knowing everything you know now about the qualitative research project and your research focuses, draft, revise, or rewrite 5 potential interview questions and post them to your #team channel.
+{: .block-warning }
+
 ## Contacting Interviewees
 
 > ##### Don't Do This Yet!
@@ -72,3 +77,48 @@ After the interview, it's important to revisit the transcript and analyze the in
 When you're done the interview, ask your interviewee if they have any final thoughts they'd like to share. They might have been waiting for a specific question you didn't ask, or something might have occurred to them that they didn't feel was appropriate to say in response to your questions. Be sure to keep recording the interview until you're absolutely sure the interviewee has finished saying everything they want to say.
 
 Finally, thank your interviewee for participating! Some interviewees may be curious about your assignment, so you can also let them know whether or not you're willing to share your paper when it's completed. 
+
+
+
+
+
+
+3 interview subjects that you interview in a synchronous F2F or audiovisual modality. Under extenuating circumstances, interviewing your subjects over direct messages and/or emails is acceptable but must be conducted synchronously or over several back-and-forth exchanges to allow for probe questions. 
+
+> ###### Important!
+> At least 1 of your primary sources must be someone you interview yourself!
+{: .block-danger }
+
+Make sure to consider email etiquette when contacting potential interviewees:
+
+- Be respectful and formal in your language
+- Introduce yourself and your purpose in writing
+- Explain, briefly, your research study, what it’s for, and what you hope to better understand from this project
+- Acknowledge that their time is valuable and ask them (politely!) if they aren’t able to participate, if they can recommend anyone else for it
+
+Here's an example email:
+
+> ###### Fill-in-the-Blanks! 
+> Review the template email below and modify it by filling in the blanks with information relevant to your research project and your research hypotheses.
+{: .block-warning }
+
+Dear NAME,
+
+My name is _____________ and I am an undergraduate student majoring in ________________ at Pace University. I am writing to ask if I could interview you for a research study for my ENG 201 class on qualitative research and critical writing. The purpose of my research is to better understand how ________________________________.
+
+My research is about ________________________________. My study consists of an interview conducted in person, over the phone, or via video conferencing for a minimum of 15 minutes. If you can't meet for this interview, please let me know and we can try to coordinate another modality. 
+
+This research is for a class assignment and will not be published. If you are unable to participate, I would appreciate it if you could let me know of anyone who might be interested in participating, and who has knowledge or experience of the area of my research.
+
+Thank you for your time and assistance! If you have any questions, please reach out.
+
+Sincerely,
+NAME
+
+It's possible that someone you want to interview won't have time to participate. In case a potential interviewee can't do it, make a shortlist of 6 people, and contact 3 at a time. That way, if someone refuses, you can contact the next person on your list.
+
+An effective interview starts with a few (maybe 5-8) open-ended clear and unbiased questions that allow respondents to explore your topic in depth. Asking "how" or "why" questions almost always allow for this kind of exploration. "What" questions are trickier, but if they invite answers that are longer than one word or phrase, they can work well, too. Cluster questions around similar topics so your participants' responses more easily flow from one to the next. A semi-structured interview approach might be preferred, where you have a few structured (scripted) questions and looser topics that permit follow-up or clarification questions after a respondent answers.
+
+> ###### 🛑 Stop! Watch:
+> Dronkers' TEDxHumboldtBay talk [How to Interview "Almost" Anyone](https://www.youtube.com/watch?v=WDOQBPYEaNs){:target="_blank"}. 
+{: .block-tip }

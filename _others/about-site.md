@@ -29,7 +29,7 @@ This site contains:
 - a [course calendar](https://visforvali.github.io/eng201-oer/){:target="_blank"},
 - a description of our [alt-grading system](https://visforvali.github.io/eng201-oer/pages/alt-grading/){:target="_blank"},
 - course [assignments](https://visforvali.github.io/eng201-oer/pages/assignments/){:target="_blank"} and [general feedback](https://visforvali.github.io/eng201-oer/pages/feedback/){:target="_blank"},
-- course materials, including weekly modules &mdash; starting with [Module 1](https://visforvali.github.io/eng201-oer/jekyll/2025-08-01-w1.html){:target="_blank"} &mdash; and linked PDFs of readings and other resources, and
+- course materials, including weekly modules &mdash; starting with [Module 1](https://visforvali.github.io/eng201-oer/jekyll/2026-08-01-w1.html){:target="_blank"} &mdash; and linked PDFs of readings and other resources, and
 - a [Discord Tutorial](https://visforvali.github.io/eng201-oer/others/discord/){:target="_blank"}
 
 All ENG 201 course material is © 2025 Vyshali Manivannan, released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"} license.
