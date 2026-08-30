@@ -23,7 +23,7 @@ First, you'll need to install the Discord app and create an account.
 
 _This username is not the same as your display name, the prominent name shown when you interact in a server or in direct messages (DMs), which can be changed later._
 
-Once you've completed the registration and verification process, use the Discord server invitation link on [Classes](classes.pace.edu){:target="_blank"} to add yourself to the ENG201 Classroom server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
+Once you've completed the registration and verification process, use the Discord server invitation link on [Classes](https://classes.pace.edu){:target="_blank"} to add yourself to the ENG201 Classroom server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
 
 ## Code of Conduct
 
