@@ -13,7 +13,7 @@ layout: post
 # Getting Started
 
 > ##### Important!
-> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊 Cafe on the left 1x to join coffee chats with voice-only and 2x to join voice-and-video (in async sections, if/as needed).
+> If you've never used Discord, don't be intimidated! Discord's controls are a lot like text messaging or social media. You can get by with these 3 main functions: click #text channels on the left to enter them, type in the message box, and hit enter to send; click 🧵 and 📌 at the top of #text channels for a directory of threads (click a thread name to join and send messages in the panel that appears) and pinned posts; and click 🔊 Cafe on the left 1x to join coffee chats with voice-only and 2x to join voice-and-video (if/as needed in async sections).
 {: .block-warning }
 
 First, you'll need to install the Discord app and create an account. 
