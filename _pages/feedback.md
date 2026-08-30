@@ -44,6 +44,10 @@ In my experience, all of the issues that tend to appear on General Feedback Shee
 
 ## Types of Feedback
 
+> ###### Tip!
+> It may help to review the model student papers below in their entirety at the beginning of the semester, so you have a sense of what you're working towards. 
+{: .block-tip }
+
 For ease of revision, feedback will be divided into 2 categories: higher-order concerns and lower-order concerns:
 
 **Higher-Order Concerns (HOCs)** include the most important, macro-level material in your essay: the thesis, claim, or controlling idea; specific connections between your interest in the field and the scholarly discourse in the field; development of your research questions and hypothesis (i.e., "what am I investigating, how do I know what I know, what do I expect to find out?"); primary and secondary research; your analysis of each piece of evidence; and so on.
@@ -51,10 +55,6 @@ For ease of revision, feedback will be divided into 2 categories: higher-order c
 **Lower-Order Concerns (LOCs)** include the less important (but not unimportant!), micro-level material in your essay, primarily grammar and mechanics: spelling, fragments, run-ons, punctuation, sentence rhythm variation, word choice, and so on.
 
 At least some of the comments on General Feedback Sheets *will* apply to you. If you're not sure which comments apply to you, you should book a sync coffee chat with me (where able), @ me in #team, and/or DM me to determine your next move.
-
-> ###### Tip!
-> It may help to review the model student papers below in their entirety at the beginning of the semester, so you have a sense of what you're working towards. 
-{: .block-tip }
  
 > ##### Model Student Paper
 Read [this model paper](/eng201-oer/assets/pdfs/model_paper_f25.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
