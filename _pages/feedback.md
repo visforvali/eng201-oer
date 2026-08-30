@@ -57,9 +57,9 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 {: .block-tip }
  
 > ##### Model Student Paper
-Read [this model paper](../assets/pdfs/model_paper_f25.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
+Read [this model paper](/eng201-oer/assets/pdfs/model_paper_f25.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
 {: .block-tip }
 
 > ##### Annotated Model Student Paper
-And here's an [annotated model paper](../assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} by a former student that includes my reader-response commentary, for insight into how I approach your qualitative research projects!
+And here's an [annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} by a former student that includes my reader-response commentary, for insight into how I approach your qualitative research projects!
 {: .block-tip }
