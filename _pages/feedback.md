@@ -12,7 +12,7 @@ After the first draft in each unit, i.e. Draft 1, Draft 3, and Draft 5, I'll upd
 
 By practicing figuring out &mdash; from a finite set of options &mdash; which bullet points apply to your draft, you'll get better at recognizing similar issues on your own, making you better able to independently revise your writing across the curriculum. 
 
-Be sure to also review my responses to you and your classmates in #classroom discussion and #team activities. More information about assessment of high-stakes projects is on the [Alt-Grading System](/eng201-oer/pages/alt-grading){:target="_blank"} page. 
+Be sure to also review my responses to you and your classmates in #🙋classroom discussion and #team activities. More information about assessment of high-stakes projects is on the [💯Alt-Grading System](/eng201-oer/pages/alt-grading){:target="_blank"} page. 
 
 > ###### Attention!
 > Receiving credit for one draft doesn't mean you don't need to revise or guarantee that you'll receive credit for the next draft. In fact, **revision between drafts is mandatory.**
@@ -26,11 +26,13 @@ Be sure to also review my responses to you and your classmates in #classroom dis
 
 Drafts are ungraded to allow you to experiment with how you implement feedback without fear of penalty.
 
-You might be used to writing courses where you're explicitly told what to do, as though writing and revision are processes that belong to someone else &mdash; processes of making corrections that another person notices and tells you how to fix. In reality, revision has to start and end with you! But since writing is also as an activity of thought that's socially, collaboratively improved, my role as your writing instructor is to provide you with guidance and just enough direction for you to be able to apply your own thinking and figure out what to do with each item on your own after attempting to locate it in your own work on your own. This allows you to think through how to say something &mdash; what research or other work needs to be done in order to say something &mdash; and then decide how you need to put it into action, based on feedback during workshop weeks and all my answers to all your questions each week. 
+You might be used to writing courses where you're explicitly told what to do, as though writing and revision are processes that belong to someone else &mdash; processes of making corrections that another person notices and tells you how to fix. In reality, revision has to start and end with you! But since writing is also as an activity of thought that's socially, collaboratively improved, my role as your writing instructor is to provide you with guidance and just enough direction for you to be able to apply your own thinking and figure out what to do with each item on your own after attempting to locate it in your own work on your own. This allows you to think through how to say something &mdash; what research or other work needs to be done in order to say something &mdash; and then decide how you need to put it into action, based on feedback during peer workshops and all my replies to your weekly Q&A posts. 
 
 ## How to Use This List ✅
 
-During peer workshops, you and your teammates will work with each feedback item as a survey you can complete for each of your drafts; this list is a static document you can more easily reference on your own whenever you work on revision.
+After peer workshops, you'll combine the peer feedback you received with the bullet points on this General Feedback Sheet. This list is a static document you can more easily reference on your own whenever you work on revision.
+
+You can (and should!) asynchronously collaborate on using this General Feedback Sheet in #team in 🔊☕Cafe if you and your teammates can coordinate a time.
 
 When working with this list *on your own,* I recommend you do the following: 
 
@@ -41,19 +43,23 @@ When working with this list *on your own,* I recommend you do the following:
 In my experience, all of the issues that tend to appear on General Feedback Sheets in are fairly common issues in early drafts in core writing classrooms, so don't feel like you're alone if you find your draft contains most of the items below!
 
 ## Types of Feedback
+
 For ease of revision, feedback will be divided into 2 categories: higher-order concerns and lower-order concerns:
 
-**Higher-Order Concerns (HOCs)** include the most important material in your essay, the "big picture," macro-level stuff, i.e. the thesis, claim, or controlling idea; specific connections between your interest in the field and the scholarly discourse in the field; development of your research questions and hypothesis (i.e., "what am I investigating, how do I know what I know, what do I expect to find out?"); your analysis of each piece of evidence; and so on.
+**Higher-Order Concerns (HOCs)** include the most important, macro-level material in your essay: the thesis, claim, or controlling idea; specific connections between your interest in the field and the scholarly discourse in the field; development of your research questions and hypothesis (i.e., "what am I investigating, how do I know what I know, what do I expect to find out?"); primary and secondary research; your analysis of each piece of evidence; and so on.
 
-**Lower-Order Concerns (LOCs)** include the less important (but not unimportant!) stuff in your essay, like grammar and mechanics: e.g., spelling, fragments, run-ons, punctuation, sentence rhythm variation, word choice.
+**Lower-Order Concerns (LOCs)** include the less important (but not unimportant!), micro-level material in your essay, primarily grammar and mechanics: spelling, fragments, run-ons, punctuation, sentence rhythm variation, word choice, and so on.
 
-At least some of the comments on General Feedback Sheets *will* apply to you. If you're not sure which even after team workshops, you can always book a coffee chat with me to determine your next move.
+At least some of the comments on General Feedback Sheets *will* apply to you. If you're not sure which comments apply to you, you should book a sync coffee chat with me (where able), @ me in #team, and/or DM me to determine your next move.
 
 > ###### Tip!
-> It also helps to review the Model Student Paper in its entirety, so you have a sense of what you're working towards. 
+> It may help to review the model student papers below in their entirety at the beginning of the semester, so you have a sense of what you're working towards. 
 {: .block-tip }
  
+> ##### Model Student Paper
+Read [this model paper](/eng201-oer/assets/pdfs/model_paper.pdf){:target="_blank"} for insight into how to approach drafting and revising the different sections of the qualitative research project!
+{: .block-tip }
 
-> ##### Annotated Model Paper 1
-Read [this annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} for insight into how to approach drafting and revising the different sections of the qualitative research project!
+> ##### Annotated Model Student Paper
+And here's an [annotated model paper](/eng201-oer/assets/pdfs/model_paper1_annotated.pdf){:target="_blank"} that includes my reader-response commentary, for insight into how I approach your qualitative research projects!
 {: .block-tip }
