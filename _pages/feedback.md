@@ -57,7 +57,7 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 {: .block-tip }
  
 > ##### Model Student Paper
-Read [this model paper](../assets/pdfs/model_paper.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
+Read [this model paper](../assets/pdfs/model_paper_f25.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
 {: .block-tip }
 
 > ##### Annotated Model Student Paper

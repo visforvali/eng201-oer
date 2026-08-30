@@ -166,7 +166,7 @@ The Conclusion section is intended to help the reader understand why your resear
 Finally, your Works Cited should be correctly formatted by your final draft. Your citations can be APA or MLA as long as you're consistent. 
 
 > ##### Model Student Paper
-> If examples help, read [this model paper](../assets/pdfs/model_paper.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
+> If examples help, read [this model paper](../assets/pdfs/model_paper_f25.pdf){:target="_blank"} by a former student for insight into how to approach drafting and revising the different sections of the qualitative research project!
 {: .block-tip }
 
 > ##### Annotated Model Student Paper
