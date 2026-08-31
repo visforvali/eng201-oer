@@ -83,7 +83,7 @@ The sections you'll use to organize your paper, and the drafts/units in which yo
 
 - Drafts 1-2 - Research Introduction (Unit 1)
 - Drafts 3-4 - Revised Research Introduction + Literature Review (Unit 2)
-- Drafts 4-5 - Revised Research Introduction and Revised Literature Review + Discussion (i.e. your primary research data from interviews or vlog analysis) and Conclusion (Unit 3),
+- Drafts 4-5 - Revised Research Introduction and Revised Literature Review + Discussion (i.e. your primary research data from vlog analysis) and Conclusion (Unit 3),
 - Final Draft - Revised Research Introduction, Revised Literature Review, and Revised Discussion and Conclusion + Works Cited
 
 **As you draft, you'll add each section to the same document. The final draft will include each of these sections, with these subheadings, in the order listed above.**

@@ -57,8 +57,7 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 
 How do you see the "attitude towards research" you're beginning to acquire intersecting with writing skills you've already picked up? With other skills or forms of thinking you already use in other arenas/spaces? As you begin to revise using all the feedback you've gathered this week, make sure your Research Introduction and Literature Review align with the following: 
 
-**SPRING 2026**
-
+**SPRING 2026 (MODIFY FOR FALL 2026)**
 
 ## Qualitative Research Comments
 
@@ -85,10 +84,10 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 21.  **Balancing the Lit Review.** You should spend an equal amount of space on each of your secondary sources; if you spend more time on a source, make sure to signal to the reader that that source is more important than the other ones and indicate why.
 22. **Transitions.** Transition sentences (the first and last sentence of each paragraph) must reflect a clear and essential connection to the claim and to the paragraph that follows. For organizational purposes, your transition sentences should signal how your secondary sources connect back to your research hypothesis. Don't just list "this article, the next article, etc."
 23. **Relevance of information.** Everything you include in your literature review summaries should explicitly explain or expand on at least one aspect of your research hypotheses.
-24. **Interpret, don't summarize!** The Discussion section is for you to briefly summarize the gist and/or overall arc of each interview and then spend the bulk of the space engaging in discourse analysis, i.e. interpreting the language used by your interviewees. Summarizing is descriptive writing, where you simply paraphrase the content of what your interviewees said; interpreting is analytical writing, where you quote a phrase or sentence where the language is extremely important to what was said, briefly contextualize it, and then draw a connection between it and the theme you've placed it in by explaining how specific word choices led you to that conclusion (instead of re-explaining the content of what was said).
-25. **Quote only when the language used is significant.** Direct quotations signal to the reader that there is something significant about the language being used. Every time you directly quote from your interviews, you must interpret the word choices and use that to explain why the quoted excerpt connects to the relevant code/theme.
+24. **Interpret, don't summarize!** The Discussion section is for you to briefly summarize the gist and/or overall arc of each vlog and then spend the bulk of the space engaging in discourse analysis, i.e. interpreting the language used by the vloggers. Summarizing is descriptive writing, where you simply paraphrase the content of what the vloggers said; interpreting is analytical writing, where you quote a phrase or sentence where the language is extremely important to what was said, briefly contextualize it, and then draw a connection between it and the theme you've placed it in by explaining how specific word choices led you to that conclusion (instead of re-explaining the content of what was said).
+25. **Quote only when the language used is significant.** Direct quotations signal to the reader that there is something significant about the language being used. Every time you directly quote from your vlogs, you must interpret the word choices and use that to explain why the quoted excerpt connects to the relevant code/theme.
 26. **Balancing the Discussion.** Dedicate equal space to all 3 themes in your Discussion section, and to all textual evidence and interpretations in each paragraph.
-27. Your transition sentences in your Discussion section should not only link the paragraph to preceding and subsequent paragraphs but also reflect a clear and essential connection to the interview themes, themes in your literature review, and your research hypotheses.
+27. Your transition sentences in your Discussion section should not only link the paragraph to preceding and subsequent paragraphs but also reflect a clear and essential connection to the vlog themes, themes in your literature review, and your research hypotheses.
 28. The Conclusion section shouldn't be treated like a place where you restate what has come before but should indicate new ideas that connect to, expand on, and lead away from your original research hypotheses based on what you discovered in primary and secondary research. Think of the Conclusion as a chance to continue synthesizing your research and point to new avenues of inquiry beyond the scope of your paper. 
 
 ## Assignment-Specific Comments 
@@ -105,11 +104,11 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 10. A good model for summarizing and integrating articles is right in front of you: in the articles you used for your Literature Review! Examine how these authors introduce, contextualize, summarize, and apply the research articles they cite. 
 11. Make sure to mention particularly useful models, frameworks, or concepts in your summaries &mdash; the ideas that you'll resurrect later in your Discussion section. Take 1-2 paragraphs for each summary if you need the space to do this work thoroughly. 
 12. To "test" the importance or relevance of the information you've included in a summary, try asking: Have I concisely paraphrased the arguments and ideas emphasized in this article, whether they perfectly align with my research hypotheses or not? Have I summarized this article in a way that will lead readers in the directions I want, i.e. towards some yet-unexplored/under-explored aspect of my claim? Are my informational priorities clear, i.e. which one idea from this article do I plan to integrate outside of the literature review (in the Discussion) by applying it to my own findings? 
-13. The Discussion section must include evidence from ideally 3 interviews that you conducted with an interview protocol (questions and modality) that you designed in this class, at minimum 2 interviews and 1 vlog as announced in Module 11. You should not include your interview questions or entire transcripts, just the most significant textual evidence of the 3 cross-cutting themes you identified in your second cycle coding. 
-14. The 3 themes identified in the Discussion section should span all 3 interviews. Each paragraph should illustrate one of the 3 key themes you identified through your coding process. 
+13. The Discussion section must include evidence from 3 vlogs that are analyzed using the same coding strategies as interview data. You should not include entire vlog transcripts in your project &mdash; just the most significant textual evidence of the 3 cross-cutting themes you identified in your second cycle coding. 
+14. The 3 themes identified in the Discussion section should span all 3 vlogs. Each paragraph should illustrate one of the 3 key themes you identified through your coding process. 
 15. The paragraphs in the Discussion section should be organized by importance of idea. Quotes and analysis in each paragraph should be similarly organized, based on the significance of textual data to the theme being discussed.
-16. Interviews should be concisely summarized in approximately 2 sentences that explain the gist of the interview, including major themes and connotations. Each summary should sound distinct, i.e. the 3 interviews shouldn't blur together, even if there are similarities between them.
-17. The conclusion of the Discussion section should be structured like the conclusion of the Literature Review, where you synthesize what you've presented to readers/your conclusions about each interview.
+16. Vlogs should be concisely summarized in approximately 2 sentences that explain the gist of the vlog, including major themes and connotations. Each summary should sound distinct, i.e. the 3 vlogs shouldn't blur together, even if there are similarities between them.
+17. The conclusion of the Discussion section should be structured like the conclusion of the Literature Review, where you synthesize what you've presented to readers/your conclusions about each vlog.
 
 ## Research Process Comments
 
@@ -130,7 +129,10 @@ How do you see the "attitude towards research" you're beginning to acquire inter
 5. Avoid judgment-based words in your literature review like "good" or "bad" and words like "positive" and "negative," which are difficult to substantiate. Saying "this article amazingly does XYZ" isn't convincing and can sound like you're forcing your opinion onto your reader &mdash; if the article really does XYZ well, then your summary and use of the ideas should demonstrate this.
 6. Avoid repeating the same information in several sentences. If you need 2-3 "fluff" sentences to help you get to a strong fourth version of what you want to say, delete the prior 2-3. Repetition like this also calls attention to how general and broad the sentence is. If you have too many repeated sentences like this, you risk sounding like you're trying to BS your way to the word count.
 7. Avoid using general language in your transition sentences and in paragraphs meant to introduce, conclude, or otherwise contextualize a section of the paper: e.g., "scholars say" or "studies show" undermine the close-reading and analytical work you've been doing in your secondary and primary research.
-8. Interviews should be directly quoted for the purpose of analysis; these quotes should contain essential language that you plan to interpret for readers. You don't need to include entire responses or even whole sentences if you're only planning to engage with a specific phrase. Make sure to embed the quotations into your own sentences.
+8. Vlogs should be directly quoted for the purpose of analysis; these quotes should contain essential language that you plan to interpret for readers. You don't need to include entire responses or even whole sentences if you're only planning to engage with a specific phrase. Make sure to embed the quotations into your own sentences.
+
+
+
 
 
 **FALL 2025**

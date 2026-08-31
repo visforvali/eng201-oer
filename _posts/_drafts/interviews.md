@@ -122,3 +122,20 @@ An effective interview starts with a few (maybe 5-8) open-ended clear and unbias
 > ###### 🛑 Stop! Watch:
 > Dronkers' TEDxHumboldtBay talk [How to Interview "Almost" Anyone](https://www.youtube.com/watch?v=WDOQBPYEaNs){:target="_blank"}. 
 {: .block-tip }
+
+
+Last week's module provided a template email, that you have hopefully used by now to contact potential interviewees. If you still need to schedule your interviews, or if you need to email other potential interviewees, please review the material in [Module 10](https://visforvali.github.io/eng201-oer/jekyll/2026-08-11-w11.html){:target="_blank"}.
+
+Remember, your interview questions should be formal and structured, using an interview protocol, i.e. a set of predetermined questions, that's followed exactly in each subsequent interview so that the order and delivery of questions remains stable. Your probe questions should be semi-structured, meaning follow-up questions that are more like fluid talking points that can be adapted during the conversation. 
+
+**Make sure to finalize both your structured and unstructured questions before conducting your interviews!**
+
+> ###### Important!
+> To give you additional time to plan, coordinate, and conduct your interviews &mdash; as well as work on your Lit Review revisions &mdash; there are no mandatory Q&A posts due this week. If you do have questions about the process, you are welcome to &mdash; and should! &mdash; post them to #classroom. 
+{:.block-danger}
+
+# Vlog Analysis (If You Couldn't Get 3 Interviews)
+
+If you needed to substitute 1 prerecorded vlog for an interview you weren't able to secure, make sure that the vlog you choose to analyze is as close to the interview you would have conducted as possible. 
+
+Search for sources where the speaker seems to answer the questions you're posing to your interviewees, and aim for videos that are roughly as long as the duration of the interviews we've been conducting.
