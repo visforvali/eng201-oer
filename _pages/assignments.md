@@ -34,6 +34,12 @@ In your weekly Answer post, you'll attempt to answer:
 - A question one of your classmates posted that no one else has tried to answer yet
 - In addition to that required post, you can answer questions posed by other classmates, whether or not they have responses, to boost your participation grade 
 
+I usually respond to your question posts with my own answers by Saturday, to give you time to answer each other's without my influence &mdash; your answers also help me see where your comprehension of the week's course content might need strengthening. 
+
+These low-stakes Q&A posts are designed to improve your understanding of qualitative research and writing in the disciplines, thus advancing your qualitative research project for the course.
+
+**I do not accept revisions or resubmissions of low-stakes Q&A posts that don't meet the assignment parameters**. That said, if you're reviewing all the materials in each module each week, then formulating a question that references the module's content shouldn't be too difficult for you to do.
+
 > ##### Due Dates
 > Peer review activities will transpire in your #team channel. The weekly modules outline instructions for peer review and list the questions you must address during peer workshops. Peer review (and other #team) activities should be posted to #team text chat by the deadlines indicated on the [Calendar](https://visforvali.github.io/eng201-oer/){:target="_blank"}. 
 {: .block-warning}
@@ -72,6 +78,8 @@ Each Unit includes 2 drafts:
 - Draft 1 is a rough draft, where you begin describing, explaining, and organizing your raw thoughts and data. In addition to whatever the assignment asks for, these first drafts can contain notes to yourself, questions for me, copy-pasted secondary or primary data you haven't interpreted yet, or "[I know something goes here but I don’t know what yet]" placeholders &mdash; i.e., features of a rough draft. 
 - Draft 2 is a more complete, revised version of Draft 1. Since you'll be working on this paper all semester, it's OK if it's rough until the final submission. As you read and think over the semester, parts of your paper may change, sometimes drastically, and that's OK too!
 - Your final submission at the end of the semester should be cleared of features of a rough draft. 
+
+I provide feedback via the General Feedback Sheet after Draft 1 of each unit.
 
 The 3 units of the qualitative research project are as follows:
 

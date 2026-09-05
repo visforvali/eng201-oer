@@ -31,6 +31,17 @@ You can always check in with me if you're unsure of how you're doing!
 
 If you do better on an ungraded draft than you do on a final submission, I'll score that one instead. This lowers the stakes of drafting even further, allows you to take risks and "fail up" without penalty, and more closely resembles what out-of-classroom drafting is really like: often "one step forward, two steps back," recursive, nonlinear, and never quite finished.
 
+## From a B+ to an A
+
+In full transparency, a B+ is the highest grade I'm "allowed" to guarantee. You can think of a B+ as being equivalent to doing the bare minimum for the course. Students who leave with A-range grades tend to be those that do more than the bare minimum. In addition to completing all the assignments for the course in a timely fashion, they also do the following:
+
+- Find time for sync coffee chats (even brief, voice-only, on-the-go feedback chats)
+- Post questions and answers on time each week that demonstrate close engagement with the course content and all the resources provided for the week
+- Welcome critique without hostility and make demonstrable attempts to implement feedback from the General Feedback Sheet as intended
+- Regularly revisit and revise all sections of the qualitative research project as we progress through the semester (instead of focusing only on the current unit)
+- Use 6 peer-reviewed articles as recommended instead of 3 peer-reviewed and 3 popular articles for their literature reviews
+- And so on!
+
 # Participation 🙋
 
 > ##### Attention!

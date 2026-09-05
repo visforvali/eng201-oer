@@ -33,6 +33,24 @@ If there are no available timeslots on a given day, it means I'm fully booked an
 
 **If you're in an async section, please be aware that I can't require sync one-on-one meetings and therefore have limited availability outside of these hours.** You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. I'm never able to accommodate last-minute requests.
 
+# How do you respond to #🙋classroom Q&A posts throughout the week?
+
+I usually start reading your question posts on Tuesdays so I can plan my responses. From Thursday to Saturday &mdash; typically by the end of the weekend at the latest &mdash; I post responses to your questions and mention (@) you so you receive a notification. To demonstrate how your questions inform each other, overlap, or are more similar than they might appear at first, I consolidate similar questions in my replies as much as possible. However, you can probably find answers to your specific questions in my responses to other students, or in any general comments I contribute to our weekly discussions, and you can also get answers from your classmates' responses!
+
+I'm unlikely to interact with questions posted after the Tuesday 11:59PM deadline for question posts, but posts submitted within the grace period are accepted for credit.
+
+# Do I need to finish the module to post my Q&As?
+
+You should begin the module before Tuesday &mdash; over the weekend if possible &mdash; and post a question based on what you *did* manage to complete by Tuesday.
+
+# How often should I check Discord?
+
+Because Discord is the platform where we participate, and where I'll post replies and feedback to your low-stakes assignments and module-related questions, you are expected to regularly check it.
+
+As the tutorial recommends, and especially if you lead a busy life and are frequently on-the-go, it might be a good idea to download the app to your computer and mobile phone (I personally find that it's easy to quickly check things on my phone). To avoid being constantly bombarded by alerts, you can adjust Discord's notifications to your preference by following the instructions in the [🎮Discord Quickstart Guide](https://visforvali.github.io/eng201-oer/others/discord/){:target="_blank"}. 
+
+At minimum, you should be logging in by Tuesdays and Fridays since your Q&A posts are due on those days. 
+
 # How are access needs addressed in the course?
 
 With the caveat that universal access is impossible &mdash; i.e., it's inevitable that people's access needs aren't always compatible &mdash; but still worth striving for, here's what I'll be doing to address your self-selected access needs in this course (without sacrificing my own):
@@ -51,16 +69,6 @@ With the caveat that universal access is impossible &mdash; i.e., it's inevitabl
 # How will my Discord alias be verified and linked with my real identity?
 
 I've already identified all of you based on either your Discord account names and/or by contacting you individually. I record this information in a document outside of my class roster. My class roster consists of your aliases only. Your low-stakes writing assignments in #🙋classroom, #team, and any other contributions on Discord are already associated with your Discord alias; I associate them similarly in my class roster. At the end of the semester, I cross-check your alias with your real identity and associate your scores and final course grades with your real identity.
-
-# How do you respond to #🙋classroom Q&A posts throughout the week?
-
-I usually start reading your question posts on Tuesdays so I can plan my responses. From Thursday to Saturday &mdash; typically by the end of the weekend at the latest &mdash; I post responses to your questions and mention (@) you so you receive a notification. To demonstrate how your questions inform each other, overlap, or are more similar than they might appear at first, I consolidate similar questions in my replies as much as possible. However, you can probably find answers to your specific questions in my responses to other students, or in any general comments I contribute to our weekly discussions, and you can also get answers from your classmates' responses!
-
-I'm unlikely to interact with questions posted after the Tuesday 11:59PM deadline for question posts, but posts submitted within the grace period are accepted for credit.
-
-# Do I need to finish the module to post my Q&As?
-
-You should begin the module before Tuesday &mdash; over the weekend if possible &mdash; and post a question based on what you *did* manage to complete by Tuesday.
 
 # Can you explain what it means to be accountable for my own learning and grades?
 
@@ -89,3 +97,7 @@ I have been using alt-grading systems for over a decade. Holistic, lenient gradi
 I can't abandon grading completely since this is a university course. But if it helps to know, usually the only complaints I get are from students who don't pay attention to the alt-grading policy, don't participate, don't submit work that attends to the assignment criteria, or don't submit work at all &mdash; then demand a B+ for "effort" (which the policy explicitly states I can't measure). By contrast, students who read and respect the alt-grading policy, consistently submit work that strives to satisfy assignment guidelines, and participate robustly in voice and text chat usually leave my classes with B+, A-, or A grades.
 
 In full transparency, a B+ is the highest grade I'm "allowed" to guarantee. You can think of a B+ as being equivalent to doing the bare minimum for the course. Students who leave with A-range grades tend to be those that find time for sync coffee chats (even brief, voice-only, on-the-go feedback chats); whose question and answer posts each week demonstrate close engagement with the course content and all the resources provided for the week; who are open to critique and make demonstrable attempts to use the General Feedback Sheet as intended and implement feedback; who regularly revisit and revise all sections of the qualitative research project as we progress through the semester (not just the unit we're currently working on); and so on.
+
+# Can I email you a revised draft between "officially" submitted drafts for feedback?
+
+I am unable to read and provide feedback on "extra" drafts that are emailed to me between draft submissions. However, I am available to go over drafts with you in real-time during sync coffee chats. If possible, I highly recommend finding time for a 20-min feedback coffee chat here and there during the semester. 
