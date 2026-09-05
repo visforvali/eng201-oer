@@ -18,6 +18,11 @@ Also, remember that email is an exclusively asynchronous medium, while Discord i
 
 For my own record-keeping purposes, I only use Discord DM to contact you if you selected the "Check in Weekly" role and to let you know if assignments received partial credit over Discord DM. If you selected the email role as your communication preference, I'll exclusively use email to contact you for any other reason, but don't expect the informal, conversational flow of Discord.
 
+# Where do I submit assignments?
+
+The [📅Calendar](https://visforvali.github.io/eng201-oer/){:target="_blank"} (website home/landing page) lists the work you're responsible for each week as well as deadlines and where to post it. **You are responsible for reviewing *all* the course materials, including the Calendar, and noting important information about deadlines, course policies, using Discord, etc. as requested in the welcome announcement for the course.** All assignments should be listed on the Calendar, but &mdash; as the Calendar itself reminds you each week &mdash; double-check each module as well, in case there's a deadline discrepancy or I missed something.
+
+
 # How do I schedule a coffee chat with you?
 
 You can reserve an appointment with me on Zcal, by visiting [my scheduling link](https://zcal.co/drmani/coffee-chat?duration=20){:target="_blank"} directly or clicking the "Book a Coffee Chat!" button on the home page. Follow the directions on Zcal to schedule your appointment. First, select the time interval you want ([🕛10](https://zcal.co/drmani/coffee-chat?duration=10){:target="_blank"}, [🕐15](https://zcal.co/drmani/coffee-chat?duration=15){:target="_blank"}, or [🕑20 min](https://zcal.co/drmani/coffee-chat?duration=20){:target="_blank"}) at the bottom left, then choose a date/time that works for you.
@@ -42,6 +47,10 @@ With the caveat that universal access is impossible &mdash; i.e., it's inevitabl
 - In a full class setting, I'm unable to send frequent, tailored reminders for work already outlined in the materials. Any reminders I am able to send will be posted to both #🙋classroom and [Classes\Announcements](https://classes.pace.edu/){:target="_blank"}, so make sure you've set up Classes to forward announcements to your email if email is your communication preference.
 - Content notes will be provided if/when relevant.
 - Disciplinary language is unavoidable in a class like this, but in weekly modules, I use both plain language and attempt to introduce and explain necessary conceptual terms in plain language.
+
+# How will my Discord alias be verified and linked with my real identity?
+
+I've already identified all of you based on either your Discord account names and/or by contacting you individually. I record this information in a document outside of my class roster. My class roster consists of your aliases only. Your low-stakes writing assignments in #🙋classroom, #team, and any other contributions on Discord are already associated with your Discord alias; I associate them similarly in my class roster. At the end of the semester, I cross-check your alias with your real identity and associate your scores and final course grades with your real identity.
 
 # How do you respond to #🙋classroom Q&A posts throughout the week?
 
@@ -72,3 +81,8 @@ Perfection is by no means necessary &mdash; or even what we're doing in this cou
 The grading policy is explained on the [💯Alt-Grading System](https://visforvali.github.io/eng201-oer/pages/alt-grading/){:target="_blank"} page. 
 
 The course is holistically graded and doesn't use traditional letter grades until the final course grade is entered at the end of the semester. You are guaranteed *at least* a B+ if you participate robustly each week and do everything you're asked to do in the spirit you're asked to do it. Because the course is holistically graded, consistent, regular participation, timely submission of low-stakes writing, and a high-stakes project that meets all requirements by the end of the course is likely to result in "forgiveness" of an occasional lack of participation full or partial remittance of any "N" scores or missed work.
+
+I have been using alt-grading systems for over a decade. Holistic, lenient grading rewards error and experimentation whereas traditional letter or numeric grading systems punish. In this way, alt-grading is a fairer metric of learning for students. By the end of the semester, I tally the number of substantive Q&A posts you submitted, the number of drafts you satisfactorily completed, and the number of substantive contributions you made to peer review and other class activities, along with any coffee chats we had and any Writing Support Services tutoring sessions you attended. I use those numbers to calculate your final weighted course grade (the percentage breakdown is in the [📋Syllabus](https://visforvali.github.io/eng201-oer/pages/syllabus/){:target="_blank"}).
+
+I can't abandon grading completely since this is a university course. But if it helps to know, usually the only complaints I get are from students who don't pay attention to the alt-grading policy, don't participate, don't submit work that attends to the assignment criteria, or don't submit work at all &mdash; then demand a B+ for "effort" (which the policy explicitly states I can't measure). By contrast, students who read and respect the alt-grading policy, consistently submit work that strives to satisfy assignment guidelines, and participate robustly in voice and text chat usually leave my classes with B+, A-, or A grades.
+
