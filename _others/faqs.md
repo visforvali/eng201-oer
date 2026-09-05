@@ -101,3 +101,7 @@ In full transparency, a B+ is the highest grade I'm "allowed" to guarantee. You 
 # Can I email you a revised draft between "officially" submitted drafts for feedback?
 
 I am unable to read and provide feedback on "extra" drafts that are emailed to me between draft submissions. However, I am available to go over drafts with you in real-time during sync coffee chats. If possible, I highly recommend finding time for a 20-min feedback coffee chat here and there during the semester. 
+
+# Do you have a preferred file format for attachments on Discord or draft submissions on Classes?
+
+Please submit any attached files over Discord, email, or Classes as a PDF or Word document (.doc/.docx).
