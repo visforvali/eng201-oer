@@ -6,7 +6,17 @@ category: Jekyll
 layout: post
 ---
 
-This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. I'll note updates to the FAQs periodically on Discord, but check this page frequently, too!
+This page will contain frequently asked questions as they're asked and answered in class, text channels, coffee chats, and elsewhere. If I update this FAQs page, I'll announce it on Discord and Classes.
+
+# What's the best way to contact you?
+
+You can contact me via my Pace email or [Discord DM](https://visforvali.github.io/ws297y/discord/#whats-where){:target="_blank"}. 
+
+Be advised: Discord makes for a quicker, less formal, more dialogic medium of communication. My turnaround time on Discord is usually within 24 hours; my turnaround time on email is usually 48 hours. I may reply to Discord DMs at odd hours or over the weekend (don't count on this, though!). I tend not to respond to emails after 5pm, and I never respond to emails or over the weekend.
+
+Also, remember that email is an exclusively asynchronous medium, while Discord is designed for both synchronous and asynchronous communication. This means that we may intersect for synchronous chats on Discord, but even if we happen to be emailing each other at the same time, you shouldn't expect a synchronous conversation over email. In other words, I'm unlikely to engage in a back-and-forth discussion over email, and more likely to reply to you once every 24-48 hours.
+
+For my own record-keeping purposes, I only use Discord DM to contact you if you selected the "Check in Weekly" role and to let you know if assignments received partial credit over Discord DM. If you selected the email role as your communication preference, I'll exclusively use email to contact you for any other reason, but don't expect the informal, conversational flow of Discord.
 
 # How do I schedule a coffee chat with you?
 

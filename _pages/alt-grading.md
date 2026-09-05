@@ -39,6 +39,10 @@ If you do better on an ungraded draft than you do on a final submission, I'll sc
 
 You're expected to regularly, substantively participate in text chat each week, through thoughtful, informal contributions that reflect what you're learning; organically reacting/replying to classmates; and doing classwork in a relatively timely fashion. 
 
+A substantive contribution means a contribution related to course content: e.g., targeted question posts about the weekly readings and/or practice exercises; specific, thoughtful answer posts responding to a peer's question; engaging in peer review by answering the guiding questions in specific, concrete ways; etc. Other forms of substantive participation also include coffee chats with me, and I tally your visits to Writing Support Services as well. 
+
+By contrast, non-substantive participation includes contributions like simple "yes/no" responses to a question; questions about the logistics of the course; general, vague question posts that don't reflect the course content for the week; question posts that are about personal aspects of the writing process that are unlikely to further your understanding of WID or qualitative research writing; etc.
+
 Participation takes a lot of forms! While these are all measurable, valid forms of participation, you're expected to participate in different ways throughout the semester:
 
 - Posting all required Discord posts to #🙋classroom each week
