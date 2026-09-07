@@ -121,7 +121,7 @@ You'll submit two drafts of each unit: Draft 1, a process draft for describing a
 # Deadlines & Grace Period 😇
 
 > ##### Important!
-> **This grace period doesn't apply to a lack of participation via text chat**, which can't be made up once the week has passed unless we've made alternate arrangements, or to the final draft of the qualitative research project, as I can only offer extensions past the end of the semester for documented emergencies or other extenuating circumstances.
+> **This grace period doesn't apply to peer review activities, the literature review tutorial, text chat when we have a Pace librarian visit our section, or the final draft of the qualitative research project**. These forms of participation are time-sensitive and can't be made up once the week has passed unless we've made alternate arrangements. Regarding the final draft, I can only offer extensions past the end of the semester for documented emergencies.
 {: .block-warning }
 
 > ##### Attention!
