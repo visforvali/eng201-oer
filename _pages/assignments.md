@@ -159,7 +159,7 @@ This is also a good time to begin compiling a rough Works Cited, either in your 
 
 Unit 3 has two sections, titled *Discussion* and *Conclusion.* You'll add this section to your cumulative draft, right after *Literature Review.*
 
-Using the themes you identified from coding the vlogs you selected, you'll complete your Discussion and Conclusion sections. 
+In this section, you'll analyze and synthesize 3 vlogs &mdash; ideally, recorded lectures by established scholars in your discipline about an aspect of your research hypotheses. Using the themes you identified from coding the vlogs you selected, you'll complete your Discussion and Conclusion sections. 
 
 The Discussion section of the qualitative research project is where you'll identify and analyze the themes you developed from transcribing and coding the vlogs you chose and interpret and describe their significance as they relate to your previous research (the Literature Review). Your goal is to explain new ideas or concepts that took shape from your primary research as related to your secondary research and your research question. 
 
