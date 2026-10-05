@@ -65,7 +65,7 @@ Don't just say that you learned a lot or restate the course material &mdash; thi
 > If it helps to see examples, here's a [model process reflection](/eng201-oer/assets/d2_process_reflection.pdf){:target="_blank"} by a former student.
 {: .block-tip }
 
-# High-Stakes Writing 🏗️
+# High-Stakes Writing: Qualitative Research Project Guidelines 🏗️
 
 > ##### Attention!
 > Make sure to review the instructions for each unit before and while you draft and revise.
