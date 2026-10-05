@@ -57,6 +57,19 @@ At least some of the comments on General Feedback Sheets *will* apply to you. If
 
 How do you see the "attitude towards research" you're beginning to acquire intersecting with writing skills you've already picked up? With other skills or forms of thinking you already use in other arenas/spaces? As you begin to revise using all the feedback you've gathered this week, make sure your Research Introduction and Literature Review align with the following: 
 
+**FALL 2026**
+
+
+
+
+
+
+
+
+
+
+
+
 **SPRING 2026 (MODIFY FOR FALL 2026)**
 
 ## Qualitative Research Comments
