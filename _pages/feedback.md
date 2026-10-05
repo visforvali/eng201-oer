@@ -21,7 +21,7 @@ By now, you're expected to be familiar with the requirements of this course and 
 # A Note on Scoring
 
 > ###### Important!
-> Drafts of high-stakes writing are scored on the basis of completion in a manner that demonstrates attention to and progress towards fulfilling the assignment guidelines. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "R" for "Reviewed." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit." **"N" scores are given if you don't submit a draft by the end of the grace period, if your submission doesn't demonstrate a connection to the assignment or to our course content thus far, or if you did not use instructor feedback.** Receiving an "R" for one draft doesn't mean you don't need to revise or guarantee that you'll receive credit for the next draft. In fact, **revision between drafts is mandatory.**
+> Drafts of high-stakes writing are scored on the basis of completion in a manner that demonstrates attention to and progress towards fulfilling the assignment guidelines. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "R" for "Reviewed." If I can't accept a draft for credit for substantive reasons, I'll mark it "N" for "No Credit." **"N" scores are given if you don't submit a draft by the end of the grace period, if your submission doesn't demonstrate a connection to the assignment or to our course content thus far, or if you did not use instructor feedback.** Receiving an "R" for one draft doesn't mean you don't need to revise or guarantee that you'll receive credit for the next draft. In fact, **revision between drafts is mandatory.** 
 {: .block-warning }
 
 Drafts are scored in this fashion to allow you to experiment with how you implement feedback without fear of penalty.
@@ -45,6 +45,10 @@ When working through the whole list of General Feedback, I recommend you do the 
 - Repeat this process with the next numbered revision task, and so on and so forth!
 
 In my experience &mdash; apart from blatantly ignoring the directions &mdash; the revision tasks that appear in the General Feedback for this course are fairly common issues in writing-in-the-disciplines (WID) classes, so don't feel like you're alone or don't know what you're doing if you find your draft contains most of the tasks below.
+
+> ###### No "Top 3" for Late Submissions
+> In accordance with the alt-grading policy, drafts that are submitted late but within the one-week grace period will be reviewed on a rolling basis but will *not* receive personalized feedback.
+{: .block-warning }
 
 ## Types of Feedback
 
