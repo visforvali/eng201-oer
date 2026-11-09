@@ -102,8 +102,6 @@ Unit 1 consists of a lot of idea generation, prewriting, and initial articulatio
 4. Avoid quoting or applying other authors' supporting evidence, quotes from sources they quote, or the specifics of their case studies. Focus instead on using their arguments and ideas.
 5. Begin enacting correct in-text citation, like using author's last names instead of full titles or "Article #."
 
-
-
 ## Requirements for Feedback Coffee Chats
 
 You're welcome to schedule a coffee chat to discuss your project with me (caveat: see my thread in #🍕lounge regarding my surgical scheduling this semester). Because this is an async class, I expect you to email me all your practice/"on your own" work in advance, including all documentation related to your research thus far (preliminary or otherwise), including your keywords, repeated search strings, and selected and vetoed sources, and all practice writing exercises from the unit modules. I expect you to come to our coffee chat prepared to "teach back" material to me so I can better pinpoint the source of your confusions. To do this, I will ask you to explain the Qualitative Research Project guidelines to me and try to identify what you haven't yet addressed in them and explain specific, useful examples from the unit modules. If you can't produce the necessary documentation, can't "teach back" relevant material, and/or come unprepared to review the material in real-time, I will cancel our chat and ask you to reschedule for a time when you're better prepared.
