@@ -77,7 +77,7 @@ For ease of revision, feedback will be divided into 2 categories: higher-order c
 
 Unit 1 consists of a lot of idea generation, prewriting, and initial articulation of a discipline narrative and research framework. At this point, you shouldn't worry about issues of grammar, mechanics, formatting, correct and consistent citation, and other LOCs. 
 
-## Unit 2 (Draft 3) General Feedback
+## Unit 2 (Drafts 3 + 4) General Feedback
 
 ### HOCs
 
